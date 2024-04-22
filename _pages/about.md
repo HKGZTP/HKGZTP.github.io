@@ -110,7 +110,7 @@ Organizing Committee
 
 | Student Session Chair | Local Arrangement Chair | Local Arrangement Chair | Local Arrangement Chair |
 |-----------------------|-------------------------|-------------------------|-------------------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d1a57b4-4544-4588-8a80-515cafa6a565) <br> **Shao-Lun Huang** <br> Tsinghua-Berkeley Shenzhen Institute | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f3f6f1b7-d14e-4686-bfc2-a9b3c133a3e2) <br> **Chung Chan** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d13f018b-9f7e-4091-9449-ab8c82528f82) <br> **Tan Li** <br> Hang Seng University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b9a880df-8b68-49ea-b535-f8125badd0b4) <br> **Zengyan Liu** <br> City University of Hong Kong |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a) <br> **Shao-Lun Huang** <br> Tsinghua-Berkeley Shenzhen Institute | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de) <br> **Chung Chan** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f) <br> **Tan Li** <br> Hang Seng University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790) <br> **Zengyan Liu** <br> City University of Hong Kong |
 
 
 
