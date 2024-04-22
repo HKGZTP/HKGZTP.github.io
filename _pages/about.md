@@ -48,7 +48,7 @@ Time Schedule
 Day 1
 -----
 
-| Time         | Activity              |
+| Time         | Day 1                 |
 |--------------|-----------------------|
 | 12:00-12:45  | Registration          |
 | 12:45-13:00  | Opening Ceremony      |
