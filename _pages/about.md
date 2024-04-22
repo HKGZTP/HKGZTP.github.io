@@ -93,17 +93,17 @@ Organizing Committee
 
 | TPC Chair | TPC Chair | TPC Chair (TP) |
 |-----------|-----------|----------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/691bfc85-c268-4484-9fb1-0d7aff4cedd9) <br> **Cheuk Ting Li** <br> The Chinese University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b58b48a5-6a7f-41c3-889d-e13036d56572) <br> **Shutao Xia** <br> Tsinghua Shenzhen International Graduate School | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/8b9f2761-a0f2-4168-906c-e1f722121275) <br> **I-Hsiang Wang** <br> National Taiwan University |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/756eeaeb-d9e4-438f-8fbc-e7185b54dfb3)<br> **Cheuk Ting Li** <br> The Chinese University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1098a761-55c3-4836-824f-217efa2647d5) <br> **Shutao Xia** <br> Tsinghua Shenzhen International Graduate School | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/740b6e63-8f3a-4c8b-b06c-88608bc93d3e) <br> **I-Hsiang Wang** <br> National Taiwan University |
 
 
 | Publicity Chair | Publicity Chair | Publicity Chair |
 |-----------------|-----------------|-----------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/4f4c6700-ff33-489d-9f9b-bb89df80ed06) <br> **Kuan Wu** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/31c4ed14-f6ed-4b64-9a49-754705909816) <br> **Congduan Li** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/269bce36-0ea9-4758-8a50-2901ae5b95a7) <br> **Min-Kuan Chang** <br> National Chung Hsing University |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7) <br> **Kuan Wu** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1a354294-64b5-436c-933c-488ba2bd670c) <br> **Congduan Li** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239) <br> **Min-Kuan Chang** <br> National Chung Hsing University |
 
 
 | Finance Chair | Finance Chair (GZ) |
 |---------------|--------------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/77160db4-85c3-4e6a-923a-061d238818d7) <br> **Hanxu Hou** <br> Dongguan University of Technology | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9fbf03e0-de48-400e-af71-265505727bd6) <br> **Xijun Wang** <br> Sun Yat-sen University |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/e737eb85-7351-4cce-a34c-7b8053bea00d) <br> **Hanxu Hou** <br> Dongguan University of Technology | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f0683100-c73c-48a8-9771-7f90636f157f) <br> **Xijun Wang** <br> Sun Yat-sen University |
 
 
 | Student Session Chair | Local Arrangement Chair | Local Arrangement Chair | Local Arrangement Chair |
