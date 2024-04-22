@@ -214,7 +214,7 @@ Organizing Committee
 <thead>  
   <tr>  
     <th>Student Session Chair</th>  
-    <th colspan="3">Local Arrangement Chairs</th>  
+    <th colspan="3" style="text-align: center;">Local Arrangement Chairs</th>  
   </tr>  
 </thead>  
 <tbody>  
