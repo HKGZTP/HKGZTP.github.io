@@ -208,33 +208,33 @@ Organizing Committee
 </table>
 
 
-<table>  
-<thead>  
-  <tr>  
-    <th style="text-align: center;">Student Session Chair</th>  
-    <th colspan="3" style="text-align: center;">Local Arrangement Chairs</th>  
-  </tr>  
-</thead>  
-<tbody>  
-  <tr>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a" alt="Shao-Lun Huang" style="vertical-align: middle; margin-right: 10px;">  
-      <center><strong>Shao-Lun Huang</strong><br />Tsinghua-Berkeley Shenzhen Institute</center>  
-    </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de" alt="Chung Chan" style="vertical-align: middle; margin-right: 10px;">  
-      <center><strong>Chung Chan</strong><br />City University of Hong Kong</center>  
-    </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f" alt="Tan Li" style="vertical-align: middle; margin-right: 10px;">  
-      <center><strong>Tan Li</strong><br />Hang Seng University of Hong Kong</center>  
-    </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790" alt="Zengyan Liu" style="vertical-align: middle; margin-right: 10px;">  
-      <center><strong>Zengyan Liu</strong><br />City University of Hong Kong</center>  
-    </td>  
-  </tr>  
-</tbody>  
+<table>    
+  <thead>    
+    <tr>    
+      <th style="text-align: center;">Student Session Chair</th>    
+      <th colspan="3" style="text-align: center;">Local Arrangement Chairs</th>    
+    </tr>    
+  </thead>    
+  <tbody>    
+    <tr>    
+      <td style="text-align: center;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a" alt="Shao-Lun Huang" style="display: block; margin: 0 auto 5px;">    
+        <strong>Shao-Lun Huang</strong><br />Tsinghua-Berkeley Shenzhen Institute    
+      </td>    
+      <td style="text-align: center;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de" alt="Chung Chan" style="display: block; margin: 0 auto 5px;">    
+        <strong>Chung Chan</strong><br />City University of Hong Kong    
+      </td>    
+      <td style="text-align: center;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f" alt="Tan Li" style="display: block; margin: 0 auto 5px;">    
+        <strong>Tan Li</strong><br />Hang Seng University of Hong Kong    
+      </td>    
+      <td style="text-align: center;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790" alt="Zengyan Liu" style="display: block; margin: 0 auto 5px;">    
+        <strong>Zengyan Liu</strong><br />City University of Hong Kong    
+      </td>    
+    </tr>    
+  </tbody>    
 </table>
 
 
