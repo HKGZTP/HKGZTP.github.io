@@ -101,7 +101,7 @@ Organizing Committee
 <table>  
 <thead>  
   <tr>  
-    <th colspan="3">General Chairs</th>  
+    <th colspan="3" style="text-align: center;">General Chairs</th>  
   </tr>  
 </thead>  
 <tbody>  
@@ -134,7 +134,7 @@ Organizing Committee
 <table>  
 <thead>  
   <tr>  
-    <th colspan="3">TPC Chairs</th>  
+    <th colspan="3" style="text-align: center;">TPC Chairs</th>  
   </tr>  
 </thead>  
 <tbody>  
@@ -162,7 +162,7 @@ Organizing Committee
 <table>  
 <thead>  
   <tr>  
-    <th colspan="3">Publicity Chairs</th>  
+    <th colspan="3" style="text-align: center;">Publicity Chairs</th>  
   </tr>  
 </thead>  
 <tbody>  
