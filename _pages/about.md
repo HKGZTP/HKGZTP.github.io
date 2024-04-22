@@ -190,7 +190,7 @@ Organizing Committee
 <table>  
 <thead>  
   <tr>  
-    <th colspan="2" style="text-align: center;">Finance Chair</th>  
+    <th colspan="2" style="text-align: center;">Finance Chairs</th>  
   </tr>  
 </thead>  
 <tbody>  
@@ -213,7 +213,7 @@ Organizing Committee
 <table>  
 <thead>  
   <tr>  
-    <th>Student Session Chair</th>  
+    <th style="text-align: center;">Student Session Chair</th>  
     <th colspan="3" style="text-align: center;">Local Arrangement Chairs</th>  
   </tr>  
 </thead>  
