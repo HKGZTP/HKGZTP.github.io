@@ -76,9 +76,27 @@ Time Schedule (Day 2)
 Organizing Committee
 ======
 
-|  Steering Committee |-|
-|-------------------------------------------|-------------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1efb965a-2bf1-40d8-99cd-76709f9f2d89) <br>  <center> **Raymond Wai Ho Yeung** <br>  The Chinese University of Hong Kong</center> | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/611181ba-937f-42d0-a5e6-27cf1034714b) <br> <center> **Xiaohua Jia** <br> City University of Hong Kong</center> |
+<table>  
+<thead>  
+  <tr>  
+    <th colspan="2">Steering Committee</th>  
+  </tr>  
+</thead>  
+<tbody>  
+  <tr>  
+    <td>  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1efb965a-2bf1-40d8-99cd-76709f9f2d89" alt="Raymond Wai Ho Yeung" />  
+      <br />  
+      <center><strong>Raymond Wai Ho Yeung</strong><br />The Chinese University of Hong Kong</center>  
+    </td>  
+    <td>  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/611181ba-937f-42d0-a5e6-27cf1034714b" alt="Xiaohua Jia" />  
+      <br />  
+      <center><strong>Xiaohua Jia</strong><br />City University of Hong Kong</center>  
+    </td>  
+  </tr>  
+</tbody>  
+</table>
 
 
 
