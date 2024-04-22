@@ -79,7 +79,7 @@ Organizing Committee
 <table>  
 <thead>  
   <tr>  
-    <th colspan="2">Steering Committee</th>  
+    <th colspan="2" style="text-align: center;">Steering Committee</th>  
   </tr>  
 </thead>  
 <tbody>  
