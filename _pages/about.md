@@ -79,7 +79,7 @@ Organizing Committee
 
 | Steering Committee |
 |--------------------------|--------------------------|
-|  ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1efb965a-2bf1-40d8-99cd-76709f9f2d89) <br> **YEUNG Wai Ho, Raymond** <br> The Chinese University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/611181ba-937f-42d0-a5e6-27cf1034714b) <br> **Xiaohua Jia** <br> City University of Hong Kong |
+|  ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1efb965a-2bf1-40d8-99cd-76709f9f2d89) <br> **Raymond Wai Ho Yeung , ** <br> The Chinese University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/611181ba-937f-42d0-a5e6-27cf1034714b) <br> **Xiaohua Jia** <br> City University of Hong Kong |
 
 
 | General Chairs |
