@@ -18,7 +18,7 @@ This year, our workshop will feature talks by 15 distinguished researchers
 
 Organizer
 ======
-|![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/719104db-b794-4fad-a0d6-9bbdf4493a4e)| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1e62b191-ea98-42dd-acad-d0af080fed51) |
+|![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/719104db-b794-4fad-a0d6-9bbdf4493a4e)| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Computer Science department, <br> City University of Hong Kong                                               | IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter                           |
 
@@ -30,7 +30,8 @@ Time
 
 Venue (TBD)
 CityU Lecture Theater, Hong Kong
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1e62b191-ea98-42dd-acad-d0af080fed51) 
+
 
 
 Speakers (Plan to invited)
