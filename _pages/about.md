@@ -100,38 +100,38 @@ Organizing Committee
 
 
 
-<table>  
-<thead>  
-  <tr>  
-    <th colspan="3">General Chairs</th>  
-  </tr>  
-</thead>  
-<tbody>  
-  <tr>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ecff16f8-d3b4-4c2c-bb23-417acd3902c6" alt="Linqi Song" />  
-      <br />  
-      <strong>Linqi Song</strong>  
-      <br />  
-      City University of Hong Kong  
-    </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dc0c8047-c9ea-41e3-8a7a-2eb47e427b81" alt="Li Chen" />  
-      <br />  
-      <strong>Li Chen</strong>  
-      <br />  
-      Sun Yat-sen University  
-    </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/aedaaade-17dc-44db-85fb-ad8f6f370bf9" alt="Po-Ning Chen" />  
-      <br />  
-      <strong>Po-Ning Chen</strong>  
-      <br />  
-      National Chiao Tung University  
-    </td>  
-  </tr>  
-</tbody>  
-</table>
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <style>  
+    .centered-text {  
+      text-align: center;  
+    }  
+  </style>  
+</head>  
+<body>  
+  <table>  
+    <thead>  
+      <tr>  
+        <th colspan="3">General Chairs</th>  
+      </tr>  
+    </thead>  
+    <tbody>  
+      <tr>  
+        <td class="centered-text">  
+          <strong>Linqi Song</strong><br />City University of Hong Kong  
+        </td>  
+        <td class="centered-text">  
+          <strong>Li Chen</strong><br />Sun Yat-sen University  
+        </td>  
+        <td class="centered-text">  
+          <strong>Po-Ning Chen</strong><br />National Chiao Tung University  
+        </td>  
+      </tr>  
+    </tbody>  
+  </table>  
+</body>  
+</html>
 
 |  TPC Chairs  |-|-|
 |------------|------------|------------|
