@@ -18,7 +18,7 @@ This year, our workshop will feature talks by 15 distinguished researchers
 
 Organizer
 ======
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/712ca47b-a4c5-4719-ae20-6819adc08c98) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ad5a680a-0cc5-46bb-99ad-afbb15e7a929) |
+|![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/719104db-b794-4fad-a0d6-9bbdf4493a4e)| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1e62b191-ea98-42dd-acad-d0af080fed51) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Computer Science department, <br> City University of Hong Kong                                               | IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter                           |
 
@@ -30,7 +30,8 @@ Time
 
 Venue (TBD)
 CityU Lecture Theater, Hong Kong
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/372325c2-7c8e-442c-bbde-2199f98ceec9)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258)
+
 
 Speakers (Plan to invited)
 ======
@@ -42,6 +43,7 @@ Speakers (Plan to invited)
 
 Time Schedule (Day 1)
 ======
+
 | Time         | Activity              |
 |--------------|-----------------------|
 | 12:00-12:45  | Registration          |
@@ -59,6 +61,7 @@ Time Schedule (Day 1)
 
 Time Schedule (Day 2)
 ======
+
 | Time         | Day 2                      |
 |--------------|----------------------------|
 | 9:00-10:30   | Student Poster Presentation|
