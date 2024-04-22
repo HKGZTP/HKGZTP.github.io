@@ -16,21 +16,13 @@ The goal is to bring together the leading researchers in Hong Kong, Guangzhou an
 This year, our workshop will feature talks by 15 distinguished researchers 
 
 
-Organizer
-======
-
-|![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7139a1c8-4699-4e6a-839b-c03d1a3af410) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258) |
-|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| <center>Computer Science department, <br> City University of Hong Kong</center>                            | <center>IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter</center>         |
-
-
 Time and Venue
 ======
 Time
 
 **July 21 and 22, 2024**
 
-Venue (TBD)
+Venue
 
 **CityU Lecture Theater, Hong Kong**
 
@@ -113,6 +105,14 @@ Organizing Committee
 | Student Session Chair | Local Arrangement Chair | Local Arrangement Chair | Local Arrangement Chair |
 |-----------------------|-------------------------|-------------------------|-------------------------|
 | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a) <br> **Shao-Lun Huang** <br> Tsinghua-Berkeley Shenzhen Institute | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de) <br> **Chung Chan** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f) <br> **Tan Li** <br> Hang Seng University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790) <br> **Zengyan Liu** <br> City University of Hong Kong |
+
+
+Organizer
+======
+
+|![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7139a1c8-4699-4e6a-839b-c03d1a3af410) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258) |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| <center>Computer Science department, <br> City University of Hong Kong</center>                            | <center>IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter</center>         |
 
 
 
