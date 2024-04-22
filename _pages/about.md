@@ -210,9 +210,38 @@ Organizing Committee
 </table>
 
 
-| Student Session Chair | Local Arrangement Chairs |   |   |
-|-----------------------|-------------------------|-------------------------|-------------------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a) <br> **Shao-Lun Huang** <br> Tsinghua-Berkeley Shenzhen Institute | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de) <br> **Chung Chan** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f) <br> **Tan Li** <br> Hang Seng University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790) <br> **Zengyan Liu** <br> City University of Hong Kong |
+<table>  
+<thead>  
+  <tr>  
+    <th>Student Session Chair</th>  
+    <th colspan="3">Local Arrangement Chairs</th>  
+  </tr>  
+</thead>  
+<tbody>  
+  <tr>  
+    <td>  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a" alt="Shao-Lun Huang" style="vertical-align: middle; margin-right: 10px;">  
+      <strong>Shao-Lun Huang</strong><br>  
+      Tsinghua-Berkeley Shenzhen Institute  
+    </td>  
+    <td>  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de" alt="Chung Chan" style="vertical-align: middle; margin-right: 10px;">  
+      <strong>Chung Chan</strong><br>  
+      City University of Hong Kong  
+    </td>  
+    <td>  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f" alt="Tan Li" style="vertical-align: middle; margin-right: 10px;">  
+      <strong>Tan Li</strong><br>  
+      Hang Seng University of Hong Kong  
+    </td>  
+    <td>  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790" alt="Zengyan Liu" style="vertical-align: middle; margin-right: 10px;">  
+      <strong>Zengyan Liu</strong><br>  
+      City University of Hong Kong  
+    </td>  
+  </tr>  
+</tbody>  
+</table>
 
 
 Organizer
