@@ -29,7 +29,7 @@ Venue
 
 
 
-Speakers (Plan to invited)
+Speakers
 ======
 
 | Candidate                | Institute                                       |
