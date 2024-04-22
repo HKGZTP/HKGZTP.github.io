@@ -135,18 +135,15 @@ Organizing Committee
   <tr>  
     <td>  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/756eeaeb-d9e4-438f-8fbc-e7185b54dfb3" alt="Cheuk Ting Li" style="vertical-align: middle; margin-right: 10px;">  
-      <strong>Cheuk Ting Li</strong><br>  
-      The Chinese University of Hong Kong  
+      <center><strong>Cheuk Ting Li</strong><br>The Chinese University of Hong Kong</center>  
     </td>  
     <td>  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1098a761-55c3-4836-824f-217efa2647d5" alt="Shutao Xia" style="vertical-align: middle; margin-right: 10px;">  
-      <strong>Shutao Xia</strong><br>  
-      Tsinghua Shenzhen International Graduate School  
+      <center><strong>Shutao Xia</strong><br>Tsinghua Shenzhen International Graduate School</center>  
     </td>  
     <td>  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/740b6e63-8f3a-4c8b-b06c-88608bc93d3e" alt="I-Hsiang Wang" style="vertical-align: middle; margin-right: 10px;">  
-      <strong>I-Hsiang Wang</strong><br>  
-      National Taiwan University  
+      <center><strong>I-Hsiang Wang</strong><br>National Taiwan University</center>  
     </td>  
   </tr>  
 </tbody>  
@@ -163,18 +160,15 @@ Organizing Committee
   <tr>  
     <td>  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7" alt="Kuan Wu" style="vertical-align: middle; margin-right: 10px;">  
-      <strong>Kuan Wu</strong><br>  
-      City University of Hong Kong  
+      <center><strong>Kuan Wu</strong><br>City University of Hong Kong</center>  
     </td>  
     <td>  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1a354294-64b5-436c-933c-488ba2bd670c" alt="Congduan Li" style="vertical-align: middle; margin-right: 10px;">  
-      <strong>Congduan Li</strong><br>  
-      Sun Yat-sen University  
+      <center><strong>Congduan Li</strong><br>Sun Yat-sen University</center>  
     </td>  
     <td>  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239" alt="Min-Kuan Chang" style="vertical-align: middle; margin-right: 10px;">  
-      <strong>Min-Kuan Chang</strong><br>  
-      National Chung Hsing University  
+      <center><strong>Min-Kuan Chang</strong><br>National Chung Hsing University</center>  
     </td>  
   </tr>  
 </tbody>  
