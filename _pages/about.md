@@ -27,9 +27,11 @@ Organizer
 Time and Venue
 ======
 Time
+
 **July 21 and 22, 2024**
 
 Venue (TBD)
+
 CityU Lecture Theater, Hong Kong
 
 <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1e62b191-ea98-42dd-acad-d0af080fed51" alt="image" style="width:50%; height:50%;">
