@@ -77,17 +77,17 @@ Time Schedule (Day 2)
 Organizing Committee
 ======
 
-| Steering Committee <colspan="2"> |
+| <Steering Committee colspan="2"> |
 |--------------------|
 |  ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1efb965a-2bf1-40d8-99cd-76709f9f2d89) <br> **Raymond Wai Ho Yeung , ** <br> The Chinese University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/611181ba-937f-42d0-a5e6-27cf1034714b) <br> **Xiaohua Jia** <br> City University of Hong Kong |
 
 
-| General Chairs <colspan="2"> |
+| <General Chairs colspan="2"> |
 |---------------|
 | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ecff16f8-d3b4-4c2c-bb23-417acd3902c6) <br> **Linqi Song** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dc0c8047-c9ea-41e3-8a7a-2eb47e427b81) <br> **Li Chen** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/aedaaade-17dc-44db-85fb-ad8f6f370bf9) <br> **Po-Ning Chen** <br> National Chiao Tung University |
 
 
-| TPC <Chairs colspan="3"> |
+| <TPC Chairs colspan="3"> |
 |------------|
 | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/756eeaeb-d9e4-438f-8fbc-e7185b54dfb3)<br> **Cheuk Ting Li** <br> The Chinese University of Hong Kong |
 | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1098a761-55c3-4836-824f-217efa2647d5) <br> **Shutao Xia** <br> Tsinghua Shenzhen International Graduate School |
