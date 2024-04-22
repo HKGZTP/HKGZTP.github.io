@@ -1,49 +1,117 @@
----
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
+title: "2024 Hong Kong Guangzhou and Taipei Joint Workshop on Artificial Intelligence Communications and Information Theory"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Worshop Introduction
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+The workshop is hosted by Computer science department, City University of Hong Kong (CityU) and Hong Kong, Guangzhou, Taipei Information Theory Chapters. The workshop was formerly known as IEEE Taiwan / Hong Kong Joint Workshop on Information theory and Communications
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The goal is to bring together the leading researchers in Hong Kong, Guangzhou and Taipei to explore deep unsolved problems in information theory,  communication theory, artificial intelligence and related fields
 
-Getting started
+This year, our workshop will feature talks by 15 distinguished researchers 
+
+
+Organizer
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/712ca47b-a4c5-4719-ae20-6819adc08c98) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ad5a680a-0cc5-46bb-99ad-afbb15e7a929) |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Computer Science department, <br> City University of Hong Kong                                               | IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter                           |
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Time and Venue
+======
+Time
+**July 21 and 22, 2024**
 
-**Markdown generator**
+Venue (TBD)
+CityU Lecture Theater, Hong Kong
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/372325c2-7c8e-442c-bbde-2199f98ceec9)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Speakers (Plan to invited)
+======
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+| Candidate                | Institute                                       |
+|--------------------------|-------------------------------------------------|
+| XXX                      | Institute                                       |
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Time Schedule (Day 1)
+======
+| Time         | Activity              |
+|--------------|-----------------------|
+| 12:00-12:45  | Registration          |
+| 12:45-13:00  | Opening Ceremony      |
+| 13:00-13:40  | Speaker 1             |
+| 13:40-14:20  | Speaker 2             |
+| 14:20-15:00  | Speaker 3             |
+| 15:00-15:40  | Speaker 4             |
+| 15:40-16:20  | Coffee Break          |
+| 16:00-17:00  | Speaker 5             |
+| 17:00-17:40  | Speaker 6             |
+| 17:40-18:20  | Speaker 7             |
+| 18:30-20:30  | Dinner                |
+
+
+Time Schedule (Day 2)
+======
+| Time         | Day 2                      |
+|--------------|----------------------------|
+| 9:00-10:30   | Student Poster Presentation|
+| 10:30-11:10  | Speaker 9                  |
+| 11:10-11:50  | Speaker 10                 |
+| 12:00-14:00  | Lunch Break                |
+| 14:00-14:40  | Speaker 11                 |
+| 14:40-15:20  | Speaker 12                 |
+| 15:20-16:00  | Speaker 13                 |
+| 16:00-16:40  | Coffee Break               |
+| 16:40-17:20  | Speaker 14                 |
+| 17:20-18:00  | Speaker 15                 |
+
+
+
+Organizing Committee
+======
+
+| Steering Committee (TBD) | Steering Committee (TBD) |
+|--------------------------|--------------------------|
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/99bfc105-53b5-4a35-b868-331037d24780) <br> **YEUNG Wai Ho, Raymond** <br> The Chinese University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/cc62a05e-7cf9-4dc1-abdb-f20781c31bcd) <br> **Xiaohua Jia** <br> City University of Hong Kong |
+
+
+| General Chair | General Chair | General Chair |
+|---------------|---------------|---------------|
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/318d192e-55ed-4d52-8721-9fbec59790b8) <br> **Linqi Song** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/3dcf8cbd-215d-4fd1-ae28-8a9193000326) <br> **Li Chen** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7e8fc271-0f61-4a1c-855a-f6fde14ef401) <br> **Po-Ning Chen** <br> National Chiao Tung University |
+
+
+| TPC Chair | TPC Chair | TPC Chair (TP) |
+|-----------|-----------|----------------|
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/691bfc85-c268-4484-9fb1-0d7aff4cedd9) <br> **Cheuk Ting Li** <br> The Chinese University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b58b48a5-6a7f-41c3-889d-e13036d56572) <br> **Shutao Xia** <br> Tsinghua Shenzhen International Graduate School | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/8b9f2761-a0f2-4168-906c-e1f722121275) <br> **I-Hsiang Wang** <br> National Taiwan University |
+
+
+| Publicity Chair | Publicity Chair | Publicity Chair |
+|-----------------|-----------------|-----------------|
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/4f4c6700-ff33-489d-9f9b-bb89df80ed06) <br> **Kuan Wu** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/31c4ed14-f6ed-4b64-9a49-754705909816) <br> **Congduan Li** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/269bce36-0ea9-4758-8a50-2901ae5b95a7) <br> **Min-Kuan Chang** <br> National Chung Hsing University |
+
+
+| Finance Chair | Finance Chair (GZ) |
+|---------------|--------------------|
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/77160db4-85c3-4e6a-923a-061d238818d7) <br> **Hanxu Hou** <br> Dongguan University of Technology | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9fbf03e0-de48-400e-af71-265505727bd6) <br> **Xijun Wang** <br> Sun Yat-sen University |
+
+
+| Student Session Chair | Local Arrangement Chair | Local Arrangement Chair | Local Arrangement Chair |
+|-----------------------|-------------------------|-------------------------|-------------------------|
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d1a57b4-4544-4588-8a80-515cafa6a565) <br> **Shao-Lun Huang** <br> Tsinghua-Berkeley Shenzhen Institute | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f3f6f1b7-d14e-4686-bfc2-a9b3c133a3e2) <br> **Chung Chan** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d13f018b-9f7e-4091-9449-ab8c82528f82) <br> **Tan Li** <br> Hang Seng University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b9a880df-8b68-49ea-b535-f8125badd0b4) <br> **Zengyan Liu** <br> City University of Hong Kong |
+
+
+
+
+
+
+
+
+
+
+
