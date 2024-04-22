@@ -89,12 +89,10 @@ Organizing Committee
 
 |  TPC Chairs  | | |
 |------------|------------|------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/756eeaeb-d9e4-438f-8fbc-e7185b54dfb3)<br> **Cheuk Ting Li** <br> The Chinese University of Hong Kong |
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1098a761-55c3-4836-824f-217efa2647d5) <br> **Shutao Xia** <br> Tsinghua Shenzhen International Graduate School |
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/740b6e63-8f3a-4c8b-b06c-88608bc93d3e) <br> **I-Hsiang Wang** <br> National Taiwan University |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/756eeaeb-d9e4-438f-8fbc-e7185b54dfb3)<br> **Cheuk Ting Li** <br> The Chinese University of Hong Kong || ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1098a761-55c3-4836-824f-217efa2647d5) <br> **Shutao Xia** <br> Tsinghua Shenzhen International Graduate School || ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/740b6e63-8f3a-4c8b-b06c-88608bc93d3e) <br> **I-Hsiang Wang** <br> National Taiwan University |
 
 
-| Publicity Chair | Publicity Chair | Publicity Chair |
+| Publicity Chairs |  |  |
 |-----------------|-----------------|-----------------|
 | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7) <br> **Kuan Wu** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1a354294-64b5-436c-933c-488ba2bd670c) <br> **Congduan Li** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239) <br> **Min-Kuan Chang** <br> National Chung Hsing University |
 
