@@ -99,39 +99,26 @@ Organizing Committee
 </table>
 
 
-
-<!DOCTYPE html>  
-<html>  
-<head>  
-  <style>  
-    .centered-text {  
-      text-align: center;  
-    }  
-  </style>  
-</head>  
-<body>  
-  <table>  
-    <thead>  
-      <tr>  
-        <th colspan="3">General Chairs</th>  
-      </tr>  
-    </thead>  
-    <tbody>  
-      <tr>  
-        <td class="centered-text">  
-          <strong>Linqi Song</strong><br />City University of Hong Kong  
-        </td>  
-        <td class="centered-text">  
-          <strong>Li Chen</strong><br />Sun Yat-sen University  
-        </td>  
-        <td class="centered-text">  
-          <strong>Po-Ning Chen</strong><br />National Chiao Tung University  
-        </td>  
-      </tr>  
-    </tbody>  
-  </table>  
-</body>  
-</html>
+<table>  
+<thead>  
+  <tr>  
+    <th colspan="3">General Chairs</th>  
+  </tr>  
+</thead>  
+<tbody>  
+  <tr>  
+    <td style="text-align: center;">  
+      <strong>Linqi Song</strong><br />City University of Hong Kong  
+    </td>  
+    <td style="text-align: center;">  
+      <strong>Li Chen</strong><br />Sun Yat-sen University  
+    </td>  
+    <td style="text-align: center;">  
+      <strong>Po-Ning Chen</strong><br />National Chiao Tung University  
+    </td>  
+  </tr>  
+</tbody>  
+</table>
 
 |  TPC Chairs  |-|-|
 |------------|------------|------------|
