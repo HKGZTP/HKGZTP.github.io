@@ -99,9 +99,10 @@ Organizing Committee
 | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7) <br> **Kuan Wu** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1a354294-64b5-436c-933c-488ba2bd670c) <br> **Congduan Li** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239) <br> **Min-Kuan Chang** <br> National Chung Hsing University |
 
 
-| Finance Chair | Finance Chair (GZ) |
-|---------------|--------------------|
+| **<center>Finance Chair</center>** |  |
+|-------------------------------------|-------------------|
 | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/e737eb85-7351-4cce-a34c-7b8053bea00d) <br> **Hanxu Hou** <br> Dongguan University of Technology | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f0683100-c73c-48a8-9771-7f90636f157f) <br> **Xijun Wang** <br> Sun Yat-sen University |
+
 
 
 | Student Session Chair | Local Arrangement Chair | Local Arrangement Chair | Local Arrangement Chair |
