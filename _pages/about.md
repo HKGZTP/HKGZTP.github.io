@@ -181,25 +181,30 @@ Organizing Committee
 
 
 <table>  
+  
 <thead>  
   <tr>  
     <th colspan="2" style="text-align: center;">Finance Chairs</th>  
   </tr>  
 </thead>  
+  
 <tbody>  
   <tr>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/e737eb85-7351-4cce-a34c-7b8053bea00d" alt="Hanxu Hou" style="vertical-align: middle; margin-right: 10px;">  
-      <br />
-      <center><strong>Hanxu Hou</strong><br />Dongguan University of Technology</center>  
+    <td style="text-align: center;">  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/e737eb85-7351-4cce-a34c-7b8053bea00d" alt="Hanxu Hou" style="vertical-align: middle;">  
+      <br>  
+      <strong>Hanxu Hou</strong><br>  
+      Dongguan University of Technology  
     </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f0683100-c73c-48a8-9771-7f90636f157f" alt="Xijun Wang" style="vertical-align: middle; margin-right: 10px;">  
-      <br />
-      <center><strong>Xijun Wang</strong><br />Sun Yat-sen University</center>  
+    <td style="text-align: center;">  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f0683100-c73c-48a8-9771-7f90636f157f" alt="Xijun Wang" style="vertical-align: middle;">  
+      <br>  
+      <strong>Xijun Wang</strong><br>  
+      Sun Yat-sen University  
     </td>  
   </tr>  
 </tbody>  
+  
 </table>
 
 
