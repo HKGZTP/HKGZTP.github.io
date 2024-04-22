@@ -130,28 +130,28 @@ Organizing Committee
 </tbody>  
 </table>
 
-<table>  
-<thead>  
-  <tr>  
-    <th colspan="3" style="text-align: center;">TPC Chairs</th>  
-  </tr>  
-</thead>  
-<tbody>  
-  <tr>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/756eeaeb-d9e4-438f-8fbc-e7185b54dfb3" alt="Cheuk Ting Li" style="vertical-align: middle; margin-right: 10px;">  
-      <center><strong>Cheuk Ting Li</strong><br />The Chinese University of Hong Kong</center>  
-    </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1098a761-55c3-4836-824f-217efa2647d5" alt="Shutao Xia" style="vertical-align: middle; margin-right: 10px;">  
-      <center><strong>Shutao Xia</strong><br />Tsinghua Shenzhen International Graduate School</center>  
-    </td>  
-    <td>  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/740b6e63-8f3a-4c8b-b06c-88608bc93d3e" alt="I-Hsiang Wang" style="vertical-align: middle; margin-right: 10px;">  
-      <center><strong>I-Hsiang Wang</strong><br />National Taiwan University</center>  
-    </td>  
-  </tr>  
-</tbody>  
+<table>    
+  <thead>    
+    <tr>    
+      <th colspan="3" style="text-align: center;">TPC Chairs</th>    
+    </tr>    
+  </thead>    
+  <tbody>    
+    <tr>    
+      <td style="text-align: center;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/756eeaeb-d9e4-438f-8fbc-e7185b54dfb3" alt="Cheuk Ting Li" style="display: block; margin: 0 auto; margin-bottom: 5px;">    
+        <div style="text-align: center;"><strong>Cheuk Ting Li</strong><br />The Chinese University of Hong Kong</div>    
+      </td>    
+      <td style="text-align: center;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1098a761-55c3-4836-824f-217efa2647d5" alt="Shutao Xia" style="display: block; margin: 0 auto; margin-bottom: 5px;">    
+        <div style="text-align: center;"><strong>Shutao Xia</strong><br />Tsinghua Shenzhen International Graduate School</div>    
+      </td>    
+      <td style="text-align: center;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/740b6e63-8f3a-4c8b-b06c-88608bc93d3e" alt="I-Hsiang Wang" style="display: block; margin: 0 auto; margin-bottom: 5px;">    
+        <div style="text-align: center;"><strong>I-Hsiang Wang</strong><br />National Taiwan University</div>    
+      </td>    
+    </tr>    
+  </tbody>    
 </table>
 
 
