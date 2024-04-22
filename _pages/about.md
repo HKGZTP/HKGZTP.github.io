@@ -19,10 +19,12 @@ Time and Venue
 =====
 
 Time
+-----
 
 **July 21 and 22, 2024**
 
 Venue
+-----
 
 **CityU Lecture Theater, Hong Kong**
 
