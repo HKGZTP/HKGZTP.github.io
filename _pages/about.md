@@ -15,6 +15,8 @@ The goal is to bring together the leading researchers in Hong Kong, Guangzhou an
 This year, our workshop will feature talks by 15 distinguished researchers 
 
 
+
+
 Time and Venue
 =====
 
@@ -40,8 +42,11 @@ Speakers
 | XXX                      | Institute                                       |
 
 
-Time Schedule (Day 1)
+Time Schedule
 =====
+
+Day 1
+-----
 
 | Time         | Activity              |
 |--------------|-----------------------|
@@ -58,8 +63,8 @@ Time Schedule (Day 1)
 | 18:30-20:30  | Dinner                |
 
 
-Time Schedule (Day 2)
-=====
+Day 2
+-----
 
 | Time         | Day 2                      |
 |--------------|----------------------------|
