@@ -88,10 +88,7 @@ Organizing Committee
 
 | General Chair | General Chair | General Chair |
 |---------------|---------------|---------------|
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ecff16f8-d3b4-4c2c-bb23-417acd3902c6)
- <br> **Linqi Song** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dc0c8047-c9ea-41e3-8a7a-2eb47e427b81)
- <br> **Li Chen** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/aedaaade-17dc-44db-85fb-ad8f6f370bf9)
- <br> **Po-Ning Chen** <br> National Chiao Tung University |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ecff16f8-d3b4-4c2c-bb23-417acd3902c6) <br> **Linqi Song** <br> City University of Hong Kong | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dc0c8047-c9ea-41e3-8a7a-2eb47e427b81) <br> **Li Chen** <br> Sun Yat-sen University | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/aedaaade-17dc-44db-85fb-ad8f6f370bf9) <br> **Po-Ning Chen** <br> National Chiao Tung University |
 
 
 | TPC Chair | TPC Chair | TPC Chair (TP) |
