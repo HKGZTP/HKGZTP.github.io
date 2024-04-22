@@ -15,13 +15,13 @@ The goal is to bring together the leading researchers in Hong Kong, Guangzhou an
 This year, our workshop will feature talks by 15 distinguished researchers 
 
 
-Time and Venue
-======
-Time
+#Time and Venue
+
+##Time
 
 **July 21 and 22, 2024**
 
-Venue
+##Venue
 
 **CityU Lecture Theater, Hong Kong**
 
@@ -29,16 +29,16 @@ Venue
 
 
 
-Speakers
-======
+#Speakers
+
 
 | Candidate                | Institute                                       |
 |--------------------------|-------------------------------------------------|
 | XXX                      | Institute                                       |
 
 
-Time Schedule (Day 1)
-======
+#Time Schedule (Day 1)
+
 
 | Time         | Activity              |
 |--------------|-----------------------|
@@ -55,8 +55,8 @@ Time Schedule (Day 1)
 | 18:30-20:30  | Dinner                |
 
 
-Time Schedule (Day 2)
-======
+#Time Schedule (Day 2)
+
 
 | Time         | Day 2                      |
 |--------------|----------------------------|
@@ -73,8 +73,8 @@ Time Schedule (Day 2)
 
 
 
-Organizing Committee
-======
+#Organizing Committee
+
 
 <table>  
   
@@ -238,8 +238,8 @@ Organizing Committee
 </table>
 
 
-Organizer
-======
+#Organizer
+
 
 |![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7139a1c8-4699-4e6a-839b-c03d1a3af410) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
