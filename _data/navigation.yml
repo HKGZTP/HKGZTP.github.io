@@ -6,14 +6,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Time and Venue"
+    url: /scheduel/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Time Schedule"
+    url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Organizing Committee"
+    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
