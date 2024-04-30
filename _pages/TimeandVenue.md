@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Time and Venue"
-permalink: /teaching/
+permalink: /TimeandVenue/
 author_profile: true
 ---
 
