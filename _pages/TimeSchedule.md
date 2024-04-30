@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Time Schedule"
-permalink: /portfolio/
+permalink: /TimeSchedule/
 author_profile: true
 ---
 
