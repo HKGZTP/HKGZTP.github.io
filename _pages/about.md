@@ -1,11 +1,11 @@
----
+
 permalink: /
 title: "2024 Hong Kong, Guangzhou and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT2024)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
 
 
 The workshop is hosted by Computer science department, City University of Hong Kong (CityU) and Hong Kong, Guangzhou, Taipei Information Theory Chapters. The workshop was formerly known as IEEE Taiwan / Hong Kong Joint Workshop on Information theory and Communications.
