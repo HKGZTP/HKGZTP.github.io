@@ -5,8 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Time Schedule
-=====
 
 Day 1
 -----
