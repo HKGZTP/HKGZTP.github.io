@@ -14,6 +14,9 @@ The goal is to bring together the leading researchers in Hong Kong, Guangzhou an
 
 This year, our workshop will feature talks by 15 distinguished researchers. 
 
+![HKGZTP](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d215d194-3a83-4045-b44e-2514861bff60)
+
+
 
 Organizer
 =====
