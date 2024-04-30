@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /OrganizingCommittee/
 title: "Organizing Committee"
 author_profile: true
 #redirect_from:
