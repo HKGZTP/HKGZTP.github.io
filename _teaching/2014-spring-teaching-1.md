@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 1"
+title: "Time and Venue"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "CityU HK"
+date: 2024-07-01
 location: "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Time
 ======
 
-Heading 2
+July 21 and 22, 2024
+
+
+Venue
 ======
 
-Heading 3
-======
+CityU Lecture Theater, Hong Kong
+
+
+Hall.png
