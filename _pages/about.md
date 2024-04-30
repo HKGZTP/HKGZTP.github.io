@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-The workshop is hosted by Computer science department, City University of Hong Kong (CityU) and Hong Kong, Guangzhou, Taipei Information Theory Chapters. The workshop was formerly known as IEEE Taiwan / Hong Kong Joint Workshop on Information theory and Communications
+The workshop is hosted by Computer science department, City University of Hong Kong (CityU) and Hong Kong, Guangzhou, Taipei Information Theory Chapters. The workshop was formerly known as IEEE Taiwan / Hong Kong Joint Workshop on Information theory and Communications.
 
-The goal is to bring together the leading researchers in Hong Kong, Guangzhou and Taipei to explore deep unsolved problems in information theory,  communication theory, artificial intelligence and related fields
+The goal is to bring together the leading researchers in Hong Kong, Guangzhou and Taipei to explore deep unsolved problems in information theory,  communication theory, artificial intelligence and related fields.
 
-This year, our workshop will feature talks by 15 distinguished researchers 
+This year, our workshop will feature talks by 15 distinguished researchers. 
 
 
 
