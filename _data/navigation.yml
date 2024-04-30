@@ -10,10 +10,10 @@ main:
     url: /TimeandVenue/    
     
   - title: "Time Schedule"
-    url: /portfolio/
+    url: /TimeSchedule/
         
   - title: "Organizing Committee"
-    url: /year-archive/
+    url: /OrganizingCommittee/
     
   # - title: "CV"
   #   url: /cv/
