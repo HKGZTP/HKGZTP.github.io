@@ -8,32 +8,33 @@ author_profile: true
 ---
 
 
-<table>  
-  
-<thead>  
-  <tr>  
-    <th colspan="2" style="text-align: center;">Steering Committee</th>  
-  </tr>  
-</thead>  
-  
-<tbody>  
-  <tr>  
-    <td style="text-align: center;">  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1efb965a-2bf1-40d8-99cd-76709f9f2d89" alt="Raymond Wai Ho Yeung" style="vertical-align: middle;">  
-      <br>  
-      <strong>Raymond Wai Ho Yeung</strong><br>  
-      The Chinese University of Hong Kong  
-    </td>  
-    <td style="text-align: center;">  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/611181ba-937f-42d0-a5e6-27cf1034714b" alt="Xiaohua Jia" style="vertical-align: middle;">  
-      <br>  
-      <strong>Xiaohua Jia</strong><br>  
-      City University of Hong Kong  
-    </td>  
-  </tr>  
-</tbody>  
-  
+<table style="border-collapse: collapse; border: none;">    
+    
+<thead>    
+  <tr>    
+    <th colspan="2" style="text-align: center; border: none;">Steering Committee</th>    
+  </tr>    
+</thead>    
+    
+<tbody>    
+  <tr>    
+    <td style="text-align: center; border: none;">    
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1efb965a-2bf1-40d8-99cd-76709f9f2d89" alt="Raymond Wai Ho Yeung" style="vertical-align: middle;">    
+      <br>    
+      <strong>Raymond Wai Ho Yeung</strong><br>    
+      The Chinese University of Hong Kong    
+    </td>    
+    <td style="text-align: center; border: none;">    
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/611181ba-937f-42d0-a5e6-27cf1034714b" alt="Xiaohua Jia" style="vertical-align: middle;">    
+      <br>    
+      <strong>Xiaohua Jia</strong><br>    
+      City University of Hong Kong    
+    </td>    
+  </tr>    
+</tbody>    
+    
 </table>
+
 
 <table>  
 <thead>  
