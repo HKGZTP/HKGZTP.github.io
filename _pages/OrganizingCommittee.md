@@ -36,32 +36,36 @@ author_profile: true
 </table>
 
 
-<table>  
+<table style="border-collapse: collapse; border: none;">  
 <thead>  
   <tr>  
-    <th colspan="3" style="text-align: center;">General Chairs</th>  
+    <th colspan="3" style="text-align: center; border: none;">General Chairs</th>  
   </tr>  
 </thead>  
 <tbody>  
   <tr>  
-    <td style="text-align: center;">  
+    <td style="text-align: center; border: none; vertical-align: middle;">  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ecff16f8-d3b4-4c2c-bb23-417acd3902c6" alt="Linqi Song" />  
       <br />  
-      <center><strong>Linqi Song</strong><br />City University of Hong Kong</center>  
+      <strong>Linqi Song</strong><br />  
+      City University of Hong Kong  
     </td>  
-    <td style="text-align: center;">  
+    <td style="text-align: center; border: none; vertical-align: middle;">  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dc0c8047-c9ea-41e3-8a7a-2eb47e427b81" alt="Li Chen" />  
       <br />  
-      <center><strong>Li Chen</strong><br />Sun Yat-sen University</center>   
+      <strong>Li Chen</strong><br />  
+      Sun Yat-sen University  
     </td>  
-    <td style="text-align: center;">  
+    <td style="text-align: center; border: none; vertical-align: middle;">  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/aedaaade-17dc-44db-85fb-ad8f6f370bf9" alt="Po-Ning Chen" />  
       <br />  
-      <center><strong>Po-Ning Chen</strong><br />National Chiao Tung University</center>  
+      <strong>Po-Ning Chen</strong><br />  
+      National Chiao Tung University  
     </td>  
   </tr>  
 </tbody>  
 </table>
+
 
 <table>    
   <thead>    
