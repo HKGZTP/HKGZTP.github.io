@@ -166,31 +166,57 @@ author_profile: true
 </table>
 
 
-<table>    
-  <thead>    
-    <tr>    
-      <th style="text-align: center;">Student Session Chair</th>    
-      <th colspan="3" style="text-align: center;">Local Arrangement Chairs</th>    
-    </tr>    
-  </thead>    
-  <tbody>    
-    <tr>    
-      <td style="text-align: center;">    
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a" alt="Shao-Lun Huang" style="display: block; margin: 0 auto 5px;">    
-        <strong>Shao-Lun Huang</strong><br />Tsinghua-Berkeley Shenzhen Institute    
-      </td>    
-      <td style="text-align: center;">    
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de" alt="Chung Chan" style="display: block; margin: 0 auto 5px;">    
-        <strong>Chung Chan</strong><br />City University of Hong Kong    
-      </td>    
-      <td style="text-align: center;">    
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f" alt="Tan Li" style="display: block; margin: 0 auto 5px;">    
-        <strong>Tan Li</strong><br />Hang Seng University of Hong Kong    
-      </td>    
-      <td style="text-align: center;">    
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790" alt="Zengyan Liu" style="display: block; margin: 0 auto 5px;">    
-        <strong>Zengyan Liu</strong><br />City University of Hong Kong    
-      </td>    
-    </tr>    
-  </tbody>    
-</table>
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+<meta charset="UTF-8">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<title>Table with No Borders</title>  
+<style>  
+/* 定义无边框表格的样式 */  
+.no-border-table {  
+  border-collapse: collapse; /* 合并相邻的边框 */  
+}  
+
+.no-border-table,  
+.no-border-table th,  
+.no-border-table td {  
+  border: none; /* 移除边框 */  
+}  
+  
+/* 如果需要，可以添加其他样式来美化表格 */  
+</style>  
+</head>  
+<body>  
+  
+<table class="no-border-table">  
+  <thead>  
+    <tr>  
+      <th style="text-align: center;">Student Session Chair</th>  
+      <th colspan="3" style="text-align: center;">Local Arrangement Chairs</th>  
+    </tr>  
+  </thead>  
+  <tbody>  
+    <tr>  
+      <td style="text-align: center;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ce2cb9c1-78e1-4c54-a44c-5b7bdd995b6a" alt="Shao-Lun Huang" style="display: block; margin: 0 auto 5px;">  
+        <strong>Shao-Lun Huang</strong><br />Tsinghua-Berkeley Shenzhen Institute  
+      </td>  
+      <td style="text-align: center;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b5021493-6b1e-4c84-861c-27dde883d1de" alt="Chung Chan" style="display: block; margin: 0 auto 5px;">  
+        <strong>Chung Chan</strong><br />City University of Hong Kong  
+      </td>  
+      <td style="text-align: center;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f" alt="Tan Li" style="display: block; margin: 0 auto 5px;">  
+        <strong>Tan Li</strong><br />Hang Seng University of Hong Kong  
+      </td>  
+      <td style="text-align: center;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790" alt="Zengyan Liu" style="display: block; margin: 0 auto 5px;">  
+        <strong>Zengyan Liu</strong><br />City University of Hong Kong  
+      </td>  
+    </tr>  
+  </tbody>  
+</table>  
+  
+</body>  
+</html>
