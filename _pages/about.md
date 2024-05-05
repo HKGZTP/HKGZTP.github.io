@@ -4,7 +4,7 @@ title: "2024 Hong Kong, Guangzhou and Taipei Joint Workshop on Artificial Intell
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 
 
