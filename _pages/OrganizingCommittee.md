@@ -138,23 +138,23 @@ author_profile: true
 </table>
 
 
-<table>  
+<table style="border-collapse: collapse; border: none;">  
   
 <thead>  
   <tr>  
-    <th colspan="2" style="text-align: center;">Finance Chairs</th>  
+    <th colspan="2" style="text-align: center; border: none;">Finance Chairs</th>  
   </tr>  
 </thead>  
   
 <tbody>  
   <tr>  
-    <td style="text-align: center;">  
+    <td style="text-align: center; border: none;">  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/e737eb85-7351-4cce-a34c-7b8053bea00d" alt="Hanxu Hou" style="vertical-align: middle;">  
       <br>  
       <strong>Hanxu Hou</strong><br>  
       Dongguan University of Technology  
     </td>  
-    <td style="text-align: center;">  
+    <td style="text-align: center; border: none;">  
       <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f0683100-c73c-48a8-9771-7f90636f157f" alt="Xijun Wang" style="vertical-align: middle;">  
       <br>  
       <strong>Xijun Wang</strong><br>  
