@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "2024 Hong Kong, Guangzhou and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT2024)"
 author_profile: true
 ---
