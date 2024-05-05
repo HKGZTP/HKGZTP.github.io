@@ -115,28 +115,12 @@ author_profile: true
 
 
 
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-<meta charset="UTF-8">  
-<meta name="viewport" content="width=device-width, initial-scale=1.0">  
-<title>Table with No Borders</title>  
-<style>  
-  /* 定义无边框表格的样式 */  
-  .no-border-table {  
-    border-collapse: collapse; /* 合并相邻的边框 */  
-    border: none; /* 移除表格边框 */  
-  }  
-    
-  .no-border-table th,  
-  .no-border-table td {  
-    border: none; /* 移除表头和表格数据单元格的边框 */  
-  }  
-</style>  
-</head>  
-<body>  
-  
-<table class="no-border-table">  
+
+
+
+
+
+<table style="border-collapse: collapse; border: none;">  
   <thead>  
     <tr>  
       <th colspan="3" style="text-align: center;">Publicity Chairs</th>  
@@ -145,15 +129,25 @@ author_profile: true
   <tbody>  
     <tr>  
       <td style="text-align: center;">  
-        <!-- 单元格内容... -->  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7" alt="Kuan Wu" style="display: block; margin: 0 auto; margin-bottom: 5px;">  
+        <strong>Kuan Wu</strong><br />City University of Hong Kong  
       </td>  
-      <!-- 其他单元格... -->  
+      <td style="text-align: center;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1a354294-64b5-436c-933c-488ba2bd670c" alt="Congduan Li" style="display: block; margin: 0 auto; margin-bottom: 5px;">  
+        <strong>Congduan Li</strong><br />Sun Yat-sen University  
+      </td>  
+      <td style="text-align: center;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239" alt="Min-Kuan Chang" style="display: block; margin: 0 auto; margin-bottom: 5px;">  
+        <strong>Min-Kuan Chang</strong><br />National Chung Hsing University  
+      </td>  
     </tr>  
   </tbody>  
-</table>  
-  
-</body>  
-</html>
+</table>
+
+
+
+
+
 
 
 
