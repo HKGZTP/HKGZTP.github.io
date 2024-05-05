@@ -113,6 +113,8 @@ author_profile: true
 </html>
 
 
+
+
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
@@ -154,6 +156,8 @@ author_profile: true
 </html>
 
 
+
+
 <table style="border-collapse: collapse; border: none;">  
   
 <thead>  
@@ -182,29 +186,10 @@ author_profile: true
 </table>
 
 
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-<meta charset="UTF-8">  
-<meta name="viewport" content="width=device-width, initial-scale=1.0">  
-<title>Table with No Borders</title>  
-<style>  
-/* 定义无边框表格的样式 */  
-.no-border-table {  
-  border-collapse: collapse; /* 合并相邻的边框 */  
-}  
 
-.no-border-table,  
-.no-border-table th,  
-.no-border-table td {  
-  border: none; /* 移除边框 */  
-}  
-  
-/* 如果需要，可以添加其他样式来美化表格 */  
-</style>  
-</head>  
-<body>  
-  
+
+
+
 <table class="no-border-table">  
   <thead>  
     <tr>  
