@@ -30,6 +30,14 @@ Show the CityUHK taxi card to taxi driver, the card provides the driver with gui
 
 ![taxi-card_2](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1cc89f67-3ee3-4096-8a1b-a108eece4c81)
 
+From Hongkong International Airport to CityU
+
+About 33 kilometers; Estimated travelling time: 30 minutes; Estimated fare 300 HKD.
+
+From West Kowloon Train Station to CityU
+
+About 5 kilometers, Estimated travelling time: 15 minutes; Estimated fare 50 HKD.
+
 By MTR
 -----
 
@@ -44,9 +52,8 @@ From Hongkong International Airport to CityU
 
 About 42 minutes by MTR
 
-<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7061e9d7-9ce8-4d5d-9e10-a420c52f9352"   
-     alt="Airport Subway to CityU"   
-     style="max-width: 300px; display: block; margin: 0 auto;">
+![airportsubway2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/3f48f809-d009-44d1-82a1-2a8850d6cdbe)
+
 
 <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/be1dffd1-99a3-4047-ab34-a249d6a26620"   
      alt="Airport Subway to CityU2"   
@@ -60,9 +67,7 @@ From West Kowloon Train Station to CityU
 
 About 20 minutes by MTR
 
-<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/8e4192e1-26c4-4467-bc69-15b1eb895d18"   
-     alt="Kawloon Subway to CityU"   
-     style="max-width: 300px; display: block; margin: 0 auto;">
+![Kawloonsubway2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d16a8833-645c-49bf-a033-e8b9c0be8a69)
 
 
 
