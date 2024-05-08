@@ -2,7 +2,7 @@
 layout: archive
 title: "Time and Venue"
 permalink: /TimeandVenue/
-author_profile: true
+author_profile: false
 ---
 
 
