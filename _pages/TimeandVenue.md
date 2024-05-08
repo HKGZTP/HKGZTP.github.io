@@ -24,15 +24,16 @@ Transportation
 
 From Hongkong International Airport to CityU
 
-About 30-minute drive
+About 1h30-minute by subway
 
-![airport2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7414c206-c8ff-4550-ab9c-00b3b980e88d)
+![airportsubway2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/a03145d9-a69b-4cf8-8e57-f4cfa9dff02d)
 
 
 From Kowloon Station to CityU
 
-About 15-minute drive
+About 30-minute by subway
 
 
-![jiulong2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dacea673-0635-4da3-8f5c-1338306d2ce7)
+![Kawloonsubway2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d6ab294d-e2e6-4dbc-8bfd-ade750a29152)
+
 
