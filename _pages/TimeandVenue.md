@@ -42,10 +42,14 @@ http://www.mtr.com.hk/en/customer/jp/index.php?oLabel=Airport&oType=HRStation&oV
 
 From Hongkong International Airport to CityU
 
-About 1 hour and 30 minutes by MTR
+About 42 minutes by MTR
 
 <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7061e9d7-9ce8-4d5d-9e10-a420c52f9352"   
      alt="Airport Subway to CityU"   
+     style="max-width: 300px; display: block; margin: 0 auto;">
+
+<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/be1dffd1-99a3-4047-ab34-a249d6a26620"   
+     alt="Airport Subway to CityU2"   
      style="max-width: 300px; display: block; margin: 0 auto;">
 
 
