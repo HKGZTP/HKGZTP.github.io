@@ -26,14 +26,13 @@ From Hongkong International Airport to CityU
 
 About 1 hour and 30 minutes by subway
 
-![airportsubway2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/a03145d9-a69b-4cf8-8e57-f4cfa9dff02d)
+<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/a03145d9-a69b-4cf8-8e57-f4cfa9dff02d" alt="Airport Subway to CityU" style="max-width: 500px; display: block; margin: 0 auto;">
 
 
 From Kowloon Station to CityU
 
 About 30 minutes by subway
 
-
-![Kawloonsubway2cityU](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d6ab294d-e2e6-4dbc-8bfd-ade750a29152)
-
-
+<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d6ab294d-e2e6-4dbc-8bfd-ade750a29152"   
+     alt="Kawloon Subway to CityU"   
+     style="max-width: 300px; display: block; margin: 0 auto;">
