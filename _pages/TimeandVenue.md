@@ -58,7 +58,21 @@ About 42 minutes by MTR
 
 From West Kowloon Train Station to CityU
 
-About 30 minutes by MTR
-<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d6ab294d-e2e6-4dbc-8bfd-ade750a29152"   
+About 20 minutes by MTR
+
+<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/8e4192e1-26c4-4467-bc69-15b1eb895d18"   
      alt="Kawloon Subway to CityU"   
      style="max-width: 300px; display: block; margin: 0 auto;">
+
+
+
+<img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5cfbaf29-66c8-472e-b102-c9225dbdeaa2"   
+     alt="Kawloon Subway to CityU2"   
+     style="max-width: 300px; display: block; margin: 0 auto;">
+
+
+
+
+
+
+
