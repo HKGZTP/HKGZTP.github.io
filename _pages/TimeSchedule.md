@@ -2,7 +2,7 @@
 layout: archive
 title: "Time Schedule"
 permalink: /TimeSchedule/
-author_profile: false
+author_profile: true
 ---
 
 
