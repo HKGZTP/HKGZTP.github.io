@@ -22,8 +22,22 @@ CityU Lecture Theater, Hong Kong
 Transportation
 =====
 
-From Hongkong International Airport to CityU
+
+By Taxi
 -----
+
+Show the CityUHK taxi card to taxi driver, the card provides the driver with guidance to reach CityUHK.
+
+![taxi-card_2](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1cc89f67-3ee3-4096-8a1b-a108eece4c81)
+
+By MTR
+-----
+
+CityUHK is located adjacent to MTR Kowloon Tong Station and Festival Walk Shopping Centre. It is just a 5-minute walk from MTR station via Festival Walk to the Campus.
+
+
+
+From Hongkong International Airport to CityU
 
 About 1 hour and 30 minutes by subway
 
@@ -34,8 +48,7 @@ About 1 hour and 30 minutes by subway
 
 
 
-From Kowloon Station to CityU
------
+From West Kowloon Train Station to CityU
 
 About 30 minutes by subway
 
