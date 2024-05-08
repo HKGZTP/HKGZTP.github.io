@@ -122,7 +122,7 @@ author_profile: false
       City University of Hong Kong  
     </td>  
     <td style="text-align: center; border: none; vertical-align: middle;">  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/18efaa23-e121-4a0f-9dea-d187e560b287" alt="Yinqiao Li" />  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5a3378bc-2bf7-4f30-af13-b84ed6d4e67e" alt="Yinqiao Li" />  
       <br />  
       <strong>Yinqiao Li</strong><br />  
       City University of Hong Kong  
@@ -136,7 +136,6 @@ author_profile: false
   </tr>  
 </tbody>  
 </table>
-
 
 
 
