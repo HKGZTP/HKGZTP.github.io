@@ -104,7 +104,7 @@ author_profile: false
 <table style="border-collapse: collapse; border: none;">  
 <thead>  
   <tr>  
-    <th colspan="3" style="text-align: center; border: none;">Publicity Chairs</th>  
+    <th colspan="4" style="text-align: center; border: none;">Publicity Chairs</th>  
   </tr>  
 </thead>  
 <tbody>  
