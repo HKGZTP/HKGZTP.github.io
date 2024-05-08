@@ -36,7 +36,7 @@ About 33 kilometers; Estimated travelling time: 30 minutes; Estimated fare 300 H
 
 From West Kowloon Train Station to CityU
 
-About 5 kilometers, Estimated travelling time: 15 minutes; Estimated fare 50 HKD.
+About 5 kilometers; Estimated travelling time: 15 minutes; Estimated fare 50 HKD.
 
 By MTR
 -----
