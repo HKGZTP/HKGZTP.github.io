@@ -138,7 +138,7 @@ author_profile: false
       </td>  
       <td style="text-align: center; border: none;">  
         <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be17c8f-a3f3-4b6c-8dfc-d9d7e6108ba2" alt="Yinqiao Li" style="display: block; margin: 0 auto; margin-bottom: 5px;"> 
-        <strong>Yinqiao Li</strong><br />Sun Yat-sen University  
+        <strong>Yinqiao Li</strong><br />City University of Hong Kong  
       </td>  
       <td style="text-align: center; border: none;">  
         <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239" alt="Min-Kuan Chang" style="display: block; margin: 0 auto; margin-bottom: 5px;">  
