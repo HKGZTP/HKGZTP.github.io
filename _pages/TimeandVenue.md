@@ -43,11 +43,6 @@ By MTR
 
 CityUHK is located adjacent to MTR Kowloon Tong Station and Festival Walk Shopping Centre. It is just a 5-minute walk from MTR station via Festival Walk to the Campus.
 
-MTR trip planner:
-
-http://www.mtr.com.hk/en/customer/jp/index.php?oLabel=Airport&oType=HRStation&oValue=47&dLabel=Kowloon%20Tong&dType=HRStation&dValue=8
-
-
 From Hongkong International Airport to CityU
 
 About 42 minutes by MTR
