@@ -2,7 +2,7 @@
 layout: archive
 permalink: /OrganizingCommittee/
 title: "Organizing Committee"
-author_profile: true
+author_profile: false
 #redirect_from:
 #  - /wordpress/blog-posts/
 ---
