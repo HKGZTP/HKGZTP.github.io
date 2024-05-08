@@ -120,32 +120,32 @@ author_profile: false
 
 
 
-<table style="border-collapse: collapse; border: none;">  
-  <thead>  
-    <tr>  
-      <th colspan="4" style="text-align: center; border: none;">Publicity Chairs</th>  
-    </tr>  
-  </thead>  
-  <tbody>  
-    <tr>  
-        <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1a354294-64b5-436c-933c-488ba2bd670c" alt="Congduan Li" style="display: block; margin: 0 auto; margin-bottom: 5px;">  
-        <strong>Congduan Li</strong><br />Sun Yat-sen University  
-      </td>  
-      <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7" alt="Kuan Wu" style="display: block; margin: 0 auto; margin-bottom: 5px;">  
-        <strong>Kuan Wu</strong><br />City University of Hong Kong  
-      </td>  
-      <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be17c8f-a3f3-4b6c-8dfc-d9d7e6108ba2" alt="Yinqiao Li" style="display: block; margin: 0 auto; margin-bottom: 5px;"> 
-        <strong>Yinqiao Li</strong><br />City University of Hong Kong  
-      </td>  
-      <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239" alt="Min-Kuan Chang" style="display: block; margin: 0 auto; margin-bottom: 5px;">  
-        <strong>Min-Kuan Chang</strong><br />National Chung Hsing University  
-      </td>  
-    </tr>  
-  </tbody>  
+<table style="border-collapse: collapse; border: none;">    
+  <thead>    
+    <tr>    
+      <th colspan="4" style="text-align: center; border: none;">Publicity Chairs</th>    
+    </tr>    
+  </thead>    
+  <tbody>    
+    <tr>    
+        <td style="text-align: center; border: none;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1a354294-64b5-436c-933c-488ba2bd670c" alt="Congduan Li" style="display: block; margin: 0 auto; margin-bottom: 5px; max-width: 100px;">
+        <strong>Congduan Li</strong><br />Sun Yat-sen University    
+      </td>    
+      <td style="text-align: center; border: none;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7" alt="Kuan Wu" style="display: block; margin: 0 auto; margin-bottom: 5px; max-width: 100px;">    
+        <strong>Kuan Wu</strong><br />City University of Hong Kong    
+      </td>    
+      <td style="text-align: center; border: none;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be17c8f-a3f3-4b6c-8dfc-d9d7e6108ba2" alt="Yinqiao Li" style="display: block; margin: 0 auto; margin-bottom: 5px; max-width: 100px;">   
+        <strong>Yinqiao Li</strong><br />City University of Hong Kong    
+      </td>    
+      <td style="text-align: center; border: none;">    
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0d3a2e0c-33b9-4e69-af20-bd5ae5bf2239" alt="Min-Kuan Chang" style="display: block; margin: 0 auto; margin-bottom: 5px; max-width: 100px;">    
+        <strong>Min-Kuan Chang</strong><br />National Chung Hsing University    
+      </td>    
+    </tr>    
+  </tbody>    
 </table>
 
 
