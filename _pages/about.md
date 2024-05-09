@@ -18,7 +18,7 @@ Registration
 
 Please register via the link below and we will arrange accommodation based on your registration information:
 
-[https://cityuhk.questionpro.com/AICIT2024] (https://cityuhk.questionpro.com/AICIT2024)
+https://cityuhk.questionpro.com/AICIT2024
 
 Contact us
 =====
