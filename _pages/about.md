@@ -17,7 +17,7 @@ This year, our workshop will feature talks by a number of distinguished research
 Registration
 =====
 
-Please register via the link below and we will arrange accommodation based on your registration information:
+Please register via the link below:
 
 [https://cityuhk.questionpro.com/AICIT2024](https://cityuhk.questionpro.com/AICIT2024)
 
