@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Registration"
+    url: /registration/   
+    
   - title: "Talks"
     url: /talks/    
 
