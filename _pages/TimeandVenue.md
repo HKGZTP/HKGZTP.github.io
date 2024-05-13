@@ -9,7 +9,7 @@ author_profile: false
 Time
 ======
 
-July 21 and 22, 2024
+July 20 and 21, 2024
 
 
 Venue
