@@ -172,6 +172,7 @@ author_profile: false
 
 
 
+
 <table style="border-collapse: collapse; border: none;">  
   <thead>  
     <tr>  
@@ -194,7 +195,7 @@ author_profile: false
         <strong>Tan Li</strong><br />Hang Seng University of Hong Kong  
       </td>  
       <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/f2fb3058-cd26-4b61-bddd-f7f2b6cba790" alt="Zengyan Liu" style="display: block; margin: 0 auto 5px;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7ce7ae82-10e1-4428-a86f-099a9245f65a" alt="Zengyan Liu" style="display: block; margin: 0 auto 5px;">  
         <strong>Zengyan Liu</strong><br />City University of Hong Kong  
       </td>  
     </tr>  
