@@ -171,8 +171,6 @@ author_profile: false
 
 
 
-
-
 <table style="border-collapse: collapse; border: none;">  
   <thead>  
     <tr>  
@@ -191,11 +189,11 @@ author_profile: false
         <strong>Chung Chan</strong><br />City University of Hong Kong  
       </td>  
       <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/350ddea3-72c3-4487-b382-7098ccb558e7" alt="Tan Li" style="display: block; margin: 0 auto 5px;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/45a1d707-8348-484b-8600-4c69ba1a1145" alt="Tan Li" style="display: block; margin: 0 auto 5px;">  
         <strong>Tan Li</strong><br />Hang Seng University of Hong Kong  
       </td>  
       <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/cb6fce92-7a62-4526-8350-7f9db68c661f" alt="Zengyan Liu" style="display: block; margin: 0 auto 5px;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/c510c050-42aa-473b-af5d-cc164fa48239" alt="Zengyan Liu" style="display: block; margin: 0 auto 5px;">  
         <strong>Zengyan Liu</strong><br />City University of Hong Kong  
       </td>  
     </tr>  
