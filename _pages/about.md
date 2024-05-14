@@ -17,7 +17,9 @@ This year, our workshop will feature talks by a number of distinguished research
 Contact us
 =====
 
-XXX@cityU.edu
+tanli@hsu.edu.hk
+
+zengyaliu2-c@my.cityu.edu.hk
 
 Organizer
 =====
