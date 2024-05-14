@@ -100,7 +100,6 @@ author_profile: false
 
 
 
-
 <table style="border-collapse: collapse; border: none;">  
 <thead>  
   <tr>  
@@ -116,7 +115,7 @@ author_profile: false
       Sun Yat-sen University  
     </td>  
     <td style="text-align: center; border: none; vertical-align: middle;">  
-      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/9be5536e-93f0-45eb-91c7-d47d65d9f3d7" alt="Kuan Wu" />  
+      <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/b63ee430-5a87-4547-9f21-96906d5a48cc" alt="Kuan Wu" />  
       <br />  
       <strong>Kuan Wu</strong><br />  
       City University of Hong Kong  
