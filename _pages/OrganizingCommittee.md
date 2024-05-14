@@ -1,4 +1,4 @@
-![Liu Zengyan](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5f23f196-572b-4c7b-b176-94ed154e82ee)---
+---
 layout: archive
 permalink: /OrganizingCommittee/
 title: "Organizing Committee"
