@@ -191,7 +191,7 @@ author_profile: false
         <strong>Chung Chan</strong><br />City University of Hong Kong  
       </td>  
       <td style="text-align: center; border: none;">  
-        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5564bce9-24fb-498a-85f1-be435d0d9a4f" alt="Tan Li" style="display: block; margin: 0 auto 5px;">  
+        <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/ac2dbbd0-d095-4545-9327-6f61c90efadc" alt="Tan Li" style="display: block; margin: 0 auto 5px;">  
         <strong>Tan Li</strong><br />Hang Seng University of Hong Kong  
       </td>  
       <td style="text-align: center; border: none;">  
