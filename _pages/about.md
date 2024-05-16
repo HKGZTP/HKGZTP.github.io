@@ -37,24 +37,6 @@ Co-organizer
 
 <!DOCTYPE html>  
 <html lang="en">  
-<head>  
-<meta charset="UTF-8">  
-<meta name="viewport" content="width=device-width, initial-scale=1.0">  
-<title>Image in Div</title>  
-<style>  
-    .image-container {  
-        display: flex;  
-        justify-content: center; 
-        align-items: center;
-        text-align: center;
-    }  
-  
-    .image-container img {  
-        max-width: 100%;
-        height: auto; 
-    }  
-</style>  
-</head>  
 <body>  
   
 <div class="image-container">  
