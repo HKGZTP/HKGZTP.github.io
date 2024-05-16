@@ -31,9 +31,40 @@ Organizer
 Co-organizer
 =====
 
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/3994fc9c-9406-4e00-af0a-f97e95a20082) |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dfdc448c-80c3-437c-b0a0-ecf16779ce99) |
 |-------------------------------------------------------------------------------|
 | <center>Huawei</center>         |
+
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+<meta charset="UTF-8">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<title>Image in Div</title>  
+<style>  
+    .image-container {  
+        display: flex;  
+        justify-content: center; 
+        align-items: center;
+        text-align: center;
+    }  
+  
+    .image-container img {  
+        max-width: 100%;
+        height: auto; 
+    }  
+</style>  
+</head>  
+<body>  
+  
+<div class="image-container">  
+    <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dfdc448c-80c3-437c-b0a0-ecf16779ce99" alt="Huawei">  
+    <p><center>Huawei</center></p> 
+</div>  
+  
+</body>  
+</html>
+
  
 <br /><br /><br />
 
