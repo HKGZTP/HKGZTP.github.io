@@ -24,7 +24,7 @@ zengyaliu2-c@my.cityu.edu.hk
 Organizer
 =====
 
-|![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7139a1c8-4699-4e6a-839b-c03d1a3af410) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258) |<img width="260" alt="Huawei" src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/4586900d-d9fc-4838-9c4f-939a912030b1">|
+|![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7139a1c8-4699-4e6a-839b-c03d1a3af410) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258) | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/619ae06d-3797-4a3c-88d2-3c5c34a7ce50) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | <center>Computer Science department, <br> City University of Hong Kong</center>                            | <center>IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter</center>         | <center>Huawei</center>         |
 
