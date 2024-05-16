@@ -31,7 +31,7 @@ Organizer
 Co-organizer
 =====
 
-| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/619ae06d-3797-4a3c-88d2-3c5c34a7ce50) |
+| ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/3994fc9c-9406-4e00-af0a-f97e95a20082) |
 |------------------------------------------------------------------------------------------------------------|
 | <center>Huawei</center>         |
  
