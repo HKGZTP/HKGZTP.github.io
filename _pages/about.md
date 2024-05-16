@@ -35,7 +35,7 @@ Co-organizer
 <table style="width: 100%; border-collapse: collapse;">  
 <tr>  
   <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
-    <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/82d4bf93-28de-41cf-9cb2-9d72f5631081" style="max-width: 100%; height: auto;">  
+    <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/47efb906-207a-4e18-8ca0-822ade7dcb3d" style="max-width: 100%; height: auto;">  
   </td>  
 </tr>  
 <tr>  
