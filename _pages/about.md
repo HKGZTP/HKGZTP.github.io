@@ -36,33 +36,20 @@ Co-organizer
 | <center>Huawei</center>         |
 
 
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-<meta charset="UTF-8">  
-<meta name="viewport" content="width=device-width, initial-scale=1.0">  
-<title>Image in Div</title>  
-<style>  
-    .image-container {  
-        text-align: center; /* 使图片和其他内联元素在容器中居中 */  
-    }  
-  
-    .image-container img {  
-        display: block; /* 移除图片底部可能存在的默认空白 */  
-        margin: 0 auto; /* 水平和垂直居中图片（但垂直居中在这里不适用，因为图片是块级元素）*/  
-    }  
-</style>  
-</head>  
-<body>  
-  
-<div class="image-container">  
-    <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dfdc448c-80c3-437c-b0a0-ecf16779ce99" alt="Huawei">  
-    <p style="text-align: center;">Huawei</p> <!-- 文本也居中 -->  
-</div>  
-  
-</body>  
-</html>
-
+<table style="width: 100%; border-collapse: collapse;">  
+<tr>  
+  <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
+    <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dfdc448c-80c3-437c-b0a0-ecf16779ce99" style="max-width: 100%; height: auto;">  
+  </td>  
+</tr>  
+<tr>  
+  <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
+    <div style="display: inline-block; text-align: center;">  
+      <p style="margin: 0;">Huawei</p>  
+    </div>  
+  </td>  
+</tr>  
+</table>
  
 <br /><br /><br />
 
