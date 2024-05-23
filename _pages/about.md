@@ -28,8 +28,11 @@ Organizer
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | <center>Computer Science department, <br> City University of Hong Kong</center>                            | <center>IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter</center>         |
 
-Sponsor Huawei
+Sponsor
 =====
+
+Huawei
+-----
 
 100,000 HKD
 
