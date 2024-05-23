@@ -78,7 +78,28 @@ Logo placement in promotional materials including backdrops, hanging banners exh
 
 Recognition on Opening Ceremony & Gala Dinner
 
+Sponsor List
+=====
 
+Diamond sponsor
+-----
+
+
+<table style="width: 100%; border-collapse: collapse;">  
+<tr>  
+  <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
+    <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/47efb906-207a-4e18-8ca0-822ade7dcb3d" style="max-width: 100%; height: auto;">  
+  </td>  
+</tr>  
+<tr>  
+  <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
+    <div style="display: inline-block; text-align: center;">  
+      <p style="margin: 0;">Huawei</p>  
+    </div>  
+  </td>  
+</tr>  
+</table>
+ 
 
 
 
