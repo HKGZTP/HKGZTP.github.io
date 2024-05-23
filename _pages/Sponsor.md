@@ -12,10 +12,7 @@ This Partnership Package provides the information for your esteemed organization
 If your organization is interested in sponsorship packages that are not mentioned below, please feel free to contact us to discuss your specific preferences.
 
 
-Diamond
-=====
-
-100,000 HKD
+DIAMOND SPONSOR HK$100,000
 -----
 
 One Table Top exhibition (30'' x 6'' x 29'') at the prime area during AICIT 2024 at the prime area of CityU from 20 to 21 July 2024.
@@ -32,11 +29,8 @@ Recognition on Opening Ceremony & Gala Dinner
 
 90 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
 
-Gold
+GOLD SPONSOR HK$50,000
 =====
-
-50,000 HKD
------
 
 Two Exhibition Booths (2m x 1m) at the prime area during AICIT 2024 at CityU from 20 to 21 July 2024.
 
@@ -52,11 +46,26 @@ Recognition on Opening Ceremony & Gala Dinner
 
 30 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
 
-Silver
+PLATINUM SPONSOR HK$70,000
 =====
 
-30,000 HKD
------
+One Table Top exhibition (30'' x 6'' x 29'') at the general area during AICIT 2024 at the prime area of CityU from 20 to 21 July 2024.
+
+Three complimentary conference registration (including Three Gala Dinner Tickets)
+
+Inclusion of a company logo on conference website with hyperlink to sponsor website
+
+Full-page colour advertisement in programme book.
+
+Logo placement in promotional materials including backdrops, hanging banners exhibition archway and registration counter.
+
+Recognition on Opening Ceremony & Gala Dinner
+
+60 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
+
+Silver  SPONSOR HK$30,000
+=====
+
 
 One Exhibition Booth (2m x 1m) at the general area during AICIT 2024 at CityU from 20 to 21 July 2024.
 
