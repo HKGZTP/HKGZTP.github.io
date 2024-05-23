@@ -81,7 +81,7 @@ Recognition on Opening Ceremony & Gala Dinner
 Sponsor List
 =====
 
-Diamond sponsor
+Diamond Sponsor
 -----
 
 
