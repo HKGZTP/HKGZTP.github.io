@@ -32,11 +32,6 @@ Recognition on Opening Ceremony & Gala Dinner
 
 90 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
 
-Huawei
------
-
-Huawei is a Diamond sponsor!
-
 Gold
 =====
 
