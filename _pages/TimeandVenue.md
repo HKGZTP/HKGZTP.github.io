@@ -19,6 +19,15 @@ CityU Lecture Theater, Hong Kong
 
 ![Hall](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7b81e2ac-6500-4865-a4cd-db6dad078135)
 
+
+Visitor Registration
+=====
+
+To enter the campus, you need to register in the CityU visitor registration system in advance:
+
+[https://banweb.cityu.edu.hk/pls/PROD/hwpksvrs_cityu.p_self](https://banweb.cityu.edu.hk/pls/PROD/hwpksvrs_cityu.p_self)
+
+
 Transportation
 =====
 
