@@ -13,7 +13,7 @@ If your organization is interested in sponsorship packages that are not mentione
 
 
 DIAMOND SPONSOR HK$100,000
------
+=====
 
 One Table Top exhibition (30'' x 6'' x 29'') at the prime area during AICIT 2024 at the prime area of CityU from 20 to 21 July 2024.
 
