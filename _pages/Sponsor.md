@@ -29,23 +29,6 @@ Recognition on Opening Ceremony & Gala Dinner
 
 90 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
 
-GOLD SPONSOR HK$50,000
-=====
-
-Two Exhibition Booths (2m x 1m) at the prime area during AICIT 2024 at CityU from 20 to 21 July 2024.
-
-Two complimentary conference registration (including Two Gala Dinner Tickets)
-
-Inclusion of a company logo on conference website with hyperlink to sponsor website
-
-Half-page colour advertisement in programme book.
-
-Logo placement in promotional materials including backdrops, hanging banners exhibition archway and registration counter.
-
-Recognition on Opening Ceremony & Gala Dinner
-
-30 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
-
 PLATINUM SPONSOR HK$70,000
 =====
 
@@ -63,9 +46,27 @@ Recognition on Opening Ceremony & Gala Dinner
 
 60 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
 
-Silver  SPONSOR HK$30,000
+
+GOLD SPONSOR HK$50,000
 =====
 
+Two Exhibition Booths (2m x 1m) at the prime area during AICIT 2024 at CityU from 20 to 21 July 2024.
+
+Two complimentary conference registration (including Two Gala Dinner Tickets)
+
+Inclusion of a company logo on conference website with hyperlink to sponsor website
+
+Half-page colour advertisement in programme book.
+
+Logo placement in promotional materials including backdrops, hanging banners exhibition archway and registration counter.
+
+Recognition on Opening Ceremony & Gala Dinner
+
+30 seconds promotion video play in rotation during the pre-event and coffee break at AICIT.
+
+
+SILVER SPONSOR HK$30,000
+=====
 
 One Exhibition Booth (2m x 1m) at the general area during AICIT 2024 at CityU from 20 to 21 July 2024.
 
