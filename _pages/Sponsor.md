@@ -57,6 +57,7 @@ Silver
 =====
 
 30,000 HKD
+-----
 
 One Exhibition Booth (2m x 1m) at the general area during AICIT 2024 at CityU from 20 to 21 July 2024.
 
