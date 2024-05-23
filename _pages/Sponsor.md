@@ -7,7 +7,7 @@ author_profile: false
 #  - /wordpress/blog-posts/
 ---
 
-This Partnership Package provides the information for your esteemed organization to choose its desired level of involvement in this event. If you are interested in supporting our conference, please contact us via email at zengyaliu2-c@my.cityu.edu.hk.
+Here provides the information for your esteemed organization to choose its desired level of involvement in this event. If you are interested in supporting our conference, please contact us via email at zengyaliu2-c@my.cityu.edu.hk.
 
 If your organization is interested in sponsorship packages that are not mentioned below, please feel free to contact us to discuss your specific preferences.
 
