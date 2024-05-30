@@ -17,9 +17,9 @@ This year, our workshop will feature talks by a number of distinguished research
 Important dates
 =====
 
-Registration Deadline: June 5
+Registration Deadline: <strong> June 5 </strong>
 
-Poster Submission Deadline: July 1
+Poster Submission Deadline: <strong> July 1 </strong>
 
 Contact us
 =====
