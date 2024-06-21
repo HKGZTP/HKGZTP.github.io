@@ -19,7 +19,7 @@ Important Dates
 
 Registration Deadline: <strong> June 5 </strong>
 
-Poster Submission Deadline: <strong> July 1 </strong>
+Poster Submission Deadline: <strong> June 30 </strong>
 
 Contact Us
 =====
