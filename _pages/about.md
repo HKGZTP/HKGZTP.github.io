@@ -21,7 +21,7 @@ Registration Deadline: <strong> June 30 </strong>
 
 Poster Submission Deadline: <strong> Junly 1 </strong>
 
-(Please print your poster with A0 size (841mm (W) x 1189mm (H) and we will prepare suitable display units)
+Note: If you have a poster, please print it with the A0 size (841mm (W) x 1189mm (H)). We will prepare suitable display units for you.
 
 Contact Us
 =====
