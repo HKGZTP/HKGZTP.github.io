@@ -17,9 +17,11 @@ This year, our workshop will feature talks by a number of distinguished research
 Important Dates
 =====
 
-Registration Deadline: <strong> June 5 </strong>
+Registration Deadline: <strong> June 30 </strong>
 
-Poster Submission Deadline: <strong> June 30 </strong>
+Poster Submission Deadline: <strong> Junly 1 </strong>
+
+(Please print your poster with A0 size (841mm (W) x 1189mm (H) and we will prepare suitable display units)
 
 Contact Us
 =====
