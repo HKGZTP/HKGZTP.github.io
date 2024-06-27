@@ -43,6 +43,22 @@ Raymond W. Yeung is a Choh-Ming Li Professor of Information Engineering at The C
 
 He is a recipient of the 2005 IEEE Information Theory Society Paper Award, the Friedrich Wilhelm Bessel Research Award from the Alexander von Humboldt Foundation in 2007, the 2016 IEEE Eric E. Sumner Award, the 2018 ACM SIGMOBILE Test-of-Time Paper Award, the 2021 IEEE Richard W. Hamming Medal, and the 2022 Claude E. Shannon Award. In 2015, he was named an Outstanding Overseas Chinese Information Theorist by the China Information Theory Society. He is a Fellow of the IEEE, Hong Kong Academy of Engineering Sciences, Hong Kong Institution of Engineers, and the US National Academy of Inventors.
 
+Prof. En-Hui Yang (Online, Keynote)
+=====
+Title
+-----
+Information Theory Inspired Deep Learning
+
+Abstract
+-----
+As deep learning-based artificial intelligence (AI) pushes our information age to a new high, is it possible for information theory (IT) to jump on the bandwagon? In this talk, we will provide an affirmative answer to this question by introducing IT concepts and optimization techniques into deep learning (DL) and presenting several IT inspired deep learning paradigms. It is shown that (1) conditional mutual information (CMI) can be used to measure the concentration of a classification deep neural network (DNN) in the output probability distribution space of the DNN, and (2) optimization techniques in rate distortion function and channel capacity can be modified to minimize (maximize, resp.) CMI along with minimizing the standard cross entropy function in DL, yielding CMI constrained deep learning (CMIC-DL), knowledge distillation (KD) resistant DL, and KD-amplifying DL. Extensive experiment results show that DNNs trained within these IT inspired DL paradigms outperform the state-of-the-art models trained within the standard DL and other loss functions in the literature.
+
+Short Bio
+-----
+Since 1997, he has been with the Dept. of Electrical and Computer Engineering, University of Waterloo, Ontario, Canada, where he is now a University Professor and former Canada Research Chair in information theory and applications. He is the founding director of the Leitch-University of Waterloo multimedia communications lab, a co-founder of SlipStream Data Inc. (now a subsidiary of BlackBerry), and the founder of BicDroid Inc. He also serves as an Executive Council Member of China Overseas Friendship Association, an Expert Advisor for the Overseas Chinese Affairs Office of the State Council of China, an Overseas Advisor for the Overseas Chinese Affairs Office of the City of Shanghai, a Board Trustees of Huaqiao University, China, and a member of IEEE Eric E. Sumner Award Committee.
+
+He served, inter alia, as a member of Presidential Nominating Committee of the Academy of Science of Royal Society of Canada; a Board Governor of the University of Waterloo; a member of IEEE Founders Medal Committee; a review panel member for the International Council for Science; an Evaluator for the 2017 Japan Prize; an Associate Editor for IEEE Transactions on Information Theory; a general co-chair of the 2008 IEEE International Symposium on Information Theory; a technical program vice-chair of the 2006 IEEE International Conference on Multimedia & Expo (ICME); the chair of the award committee for the 2004 Canadian Award in Telecommunications; a co-editor of the 2004 Special Issue of the IEEE Transactions on Information Theory; a co-chair of the 2003 US National Science Foundation (NSF) workshop on the interface of Information Theory and Computer Science; and a co-chair of the 2003 Canadian Workshop on Information Theory.
+
 
 Prof. Cheunk Ting Li
 =====
