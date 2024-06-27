@@ -15,7 +15,7 @@ July 20 and 21, 2024
 Venue
 ======
 
-CityU Lecture Theater, Hong Kong
+CityUHK Lecture Theater, Hong Kong
 
 ![Hall](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7b81e2ac-6500-4865-a4cd-db6dad078135)
 
@@ -23,7 +23,7 @@ CityU Lecture Theater, Hong Kong
 Visitor Registration
 =====
 
-To enter the campus, you need to register in the CityU visitor registration system in advance:
+To enter the campus, you need to register in the CityUHK visitor registration system in advance:
 
 [https://banweb.cityu.edu.hk/pls/PROD/hwpksvrs_cityu.p_self](https://banweb.cityu.edu.hk/pls/PROD/hwpksvrs_cityu.p_self)
 
@@ -39,11 +39,11 @@ Show the CityUHK taxi card to taxi driver, the card provides the driver with gui
 
 ![taxi-card_2](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1cc89f67-3ee3-4096-8a1b-a108eece4c81)
 
-From Hongkong International Airport to CityU
+From Hongkong International Airport to CityUHK
 
 About 33 kilometers; Estimated travelling time: 30 minutes; Estimated fare 300 HKD.
 
-From West Kowloon Train Station to CityU
+From West Kowloon Train Station to CityUHK
 
 About 5 kilometers; Estimated travelling time: 15 minutes; Estimated fare 50 HKD.
 
@@ -52,7 +52,7 @@ By MTR
 
 CityUHK is located adjacent to MTR Kowloon Tong Station and Festival Walk Shopping Centre. It is just a 5-minute walk from MTR station via Festival Walk to the Campus.
 
-From Hongkong International Airport to CityU
+From Hongkong International Airport to CityUHK
 
 About 42 minutes by MTR
 
@@ -67,7 +67,7 @@ About 42 minutes by MTR
 
 
 
-From West Kowloon Train Station to CityU
+From West Kowloon Train Station to CityUHK
 
 About 20 minutes by MTR
 
