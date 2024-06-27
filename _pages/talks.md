@@ -139,9 +139,82 @@ Abstract
 -----
 The success of large language models has significantly raised interest in generative models. In this talk, we will present our recent progress in utilizing generative models for the physical layer design of wireless communication systems. We will discuss various generative models including generative adversarial networks (GANs), variational autoencoders (VAEs), and diffusion models, and demonstrate their applications in federated learning, semantic communication, and joint source-channel coding for image data.
 
-Bio:
+Bio
+-----
 Chia-Han Lee received the B.S. degree from National Taiwan University in 1999, the M.S. degree from the University of Michigan, Ann Arbor, in 2003, and the Ph.D. degree from Princeton University in 2008, all in electrical engineering. From 1999 to 2001, he served in the ROC Army as a Missile Operation Officer. From 2008 to 2009, he was a Postdoctoral Research Associate with the University of Notre Dame, USA. From 2010 to 2016, he was with Academia Sinica as an Assistant Research Fellow and then an Associate Research Fellow. In 2016, he joined National Yang Ming Chiao Tung University as an Associate Professor and Hwa Tse Roger Liang Junior Chair Professor (2018-2019), and became a Professor in 2019. Since 2022, he is an Associate Chairman of the Department of Electronics and Electrical Engineering. He received Intel Labs Distinguished Collaborative Research Awards in 2014 and was named Intel Labs Distinguished Collaborator in 2015 (for years 2010-2015). He serves as TPC Co-Chair for IEEE GLOBECOM 2025, Tutorials Co-Chair for IEEE GLOBECOM 2020, Symposium Co-Chair for IEEE GLOBECOM 2019, ICC 2021, ICC 2022, and ICC 2023, and Industry Presentations and Demonstrations Co-Chair for IEEE GLOBECOM 2017. His research focuses deep learning-based wireless communications and networks. He is an Editor of IEEE Communications Letters from 2014 to 2018, an Editor of IEEE Transactions on Wireless Communications from 2014 to 2019, an Editor of IEEE Transactions on Communications from 2019 to 2023, and an Editor of IEEE Transactions on Cognitive Communications and Networking since 2024. He is the Chair of IEEE ComSoc Taipei Chapter from 2021 to 2022.
 
 
+Prof. Antoni B. Chan
+=====
+
+Title
+-----
+Towards Explainable AI that Promotes AI-human Mutual Understanding
+
+Abstract
+-----
+Recent advances in deep learning-based AI has necessitated better explanations on AI’s operations to enhance transparency of AI’s decisions, especially in critical systems such as self-driving car or medical diagnosis applications, to ensure safety, user trust and user satisfaction. However, current Explainable AI (XAI) solutions focus on using more AI to explain AI, without considering users’ mental processes. Here we use cognitive science theories and methodologies to develop a next-generation XAI framework that promotes human-AI mutual understanding, using computer vision AI models as examples due to its importance in critical systems. Specifically, we propose to equip XAI with an important cognitive capacity in human social interaction: theory of mind (ToM), i.e., the capacity to understand others’ behaviour by attributing mental states to them. We focus on two ToM abilities: (1) Inferring human strategy and performance (i.e., Machine’s ToM), and (2) Inferring human understanding of AI strategy and trust towards AI (i.e., to infer Human’s ToM). Computational modeling of human cognition and experimental psychology methods play an important role for XAI to develop these two ToM abilities to provide user-centered explanations through comparing users’ strategy with AI’s strategy and estimating user’s current understanding of AI’s strategy, similar to real-life teachers. Enhanced human-AI mutual understanding can in turn lead to better adoption and trust of AI systems. This framework thus highlights the importance of cognitive science approaches to XAI.
+
+Bio
+-----
+Prof. Antoni B. Chan received the B.S. and M.Eng. degrees in electrical engineering from Cornell University, Ithaca, NY, USA, in 2000 and 2001, respectively, and the Ph.D. degree in electrical and computer engineering from University of California at San Diego (UCSD), La Jolla, CA, USA, in 2008. He was a Visiting Scientist with the Vision and Image Analysis Laboratory, Cornell University, from 2001 to 2003, and a Post-Doctoral Researcher with the Statistical Visual Computing Laboratory, UCSD, in 2009. In 2009 he joined the Department of Computer Science, City University of Hong Kong, Hong Kong, where he is currently a Professor. His research interests include computer vision, machine learning, explainable AI (XAI), eye-gaze analysis, and music analysis. Prof. Chan received the National Science Foundation Integrative Graduate Education and Research Training Fellowship from 2006 to 2008, and an Early Career Award from the Research Grants Council of the Hong Kong Special Administrative Region, China, in 2012. He is currently an associate editor for IEEE Transactions on Pattern Analysis and Machine Intelligence, and serves as area chair for computer vision and machine learning conferences, including CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR.
+
+
+
+
+
+Prof. Qianqian Yang
+=====
+
+Title
+-----
+Highly Efficient Semantics-Oriented Communications with Generative Modeling
+
+Abstract
+-----
+In recent years, there has been a significant surge in the development and application of generative models for content generation, transforming fields such as image creation, text generation, and multimodal synthesis. This talk will showcase Dr. Yang's latest work on highly efficient semantics-oriented communications, highlighting the transformative potential of generative modeling techniques. Specifically, Dr. Yang will introduce research on semantic communication for efficient speech and image transmission, leveraging generative models to reduce the amount of transmitted information to less than 1% compared to existing methods. Additionally, we will explore a generative modeling-based evolving semantic communication system that demonstrates continuously improving performance through a caching mechanism. Finally, Dr. Yang will present a knowledge-aided semantic communication method that utilizes the correlation between semantic features captured by a probabilistic graphical model to further enhance transmission efficiency.
+
+Bio
+-----
+Qianqian Yang received the Ph.D. degree in electrical and electronic engineering from Imperial College London, U.K. She has held visiting positions at CentraleSupelec in 2016 and the New York University Tandon School of Engineering from 2017 to 2018. After her Ph.D., she served as a Post-Doctoral Research Associate at Imperial College London and as a Machine Learning Researcher for Sensyne Health Plc.
+
+She is currently a Tenure-Tracked Professor with the Department of Information Science and Electronic Engineering, Zhejiang University, China. Her main research interests include information theory, wireless AI, and semantic communication. She has served as a Symposium Chair for IEEE ICCT 2023, a local Co-Chair for IEEE WCSP 2023, and a Finance Chair for IEEE ICCC 2024. She has co-chaired a number of workshops at top conferences, including IEEE ICC 2023, ICCC 2023, VTC 2022, WCNC 2022, and HPCC 2021. She is a founding member of the IEEE SIG on Qualitative and Semantic Communication. She is the recipient of the Science and Technology Innovation First Prize from the China Technology Industrialization Promotion Association, the Outstanding Young Researcher Award from Huawei, and the ICC 2024 Workshop Best Paper Award.
+
+
+
+
+
+
+
+
+Prof. Yu-Chih Huang
+=====
+Title
+-----
+Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
+
+Abstract
+-----
+The piecewise-stationary bandit problem is an important variant of the multi-armed bandit problem that further considers abrupt changes in the reward distributions. The main theme of the problem is the trade-off between exploration for detecting environment changes and exploitation of traditional bandit algorithms. While this problem has been extensively investigated, existing works either assume knowledge about the number of change points $M$ or require extremely high computational complexity. In this work, we revisit the piecewise-stationary bandit problem from a minimalist perspective. We propose a novel and generic exploration mechanism, called diminishing exploration, which eliminates the need for knowledge about $M$ and can be used in conjunction with an existing change detection-based algorithm to achieve near-optimal regret scaling. Simulation results show that despite oblivious of $M$, equipping existing algorithms with the proposed diminishing exploration generally achieves better empirical regret than existing approaches.
+
+Bio
+-----
+Yu-Chih Huang received the Ph.D. degree in electrical and computer engineering from Texas A&M University (TAMU), College Station, TX, USA, in 2013. From 2013 to 2015, he was a Postdoctoral Research Associate with TAMU. In 2015, he joined the Department of Communication Engineering, National Taipei University, Taipei, Taiwan, as an Assistant Professor and was promoted to Associate Professor in 2018. In 2020, he joined the Institute of Communications Engineering, National Yang Ming Chiao Tung University, Taiwan, where he is currently a Professor. His research interests include information theory, coding theory, wireless communications, and machine learning. He was the recipient of the National Science and Technology Council Wu Ta-You Memorial Award in 2023, Ministry of Science and Technology Young Scholar Fellowship in 2020, and the 2018 IEEE Information Theory Society Taipei Chapter and IEEE Communications Society Taipei/Tainan Chapter’s Best Paper Award for Young Scholars. He is currently an Associate Editor for IEEE Transactions on Communications and IEEE Communications Letters.
+
+
+Dr. Xueyan Niu
+=====
+
+Title
+-----
+Exploring Strengths and Weaknesses of Transformers Through the Lens of Information Theory 
+
+Abstract
+-----
+With the advent of ChatGPT, Transformer-based Large Language Models (LLMs) are receiving widespread attention from both academia and industry. OpenAI's scaling law predicts that training larger models with more data can lead to better performance. Based on this, the parameter scale of recent large models can reach the level of hundreds of billions and are trained on text data at the scale of hundreds of billions. However, increasing the size of the Transformer model does not always lead to performance improvement—a phenomenon that cannot be explained by the empirical scaling law. In addition, when the model memorizes training samples, its generalization ability is enhanced. This report will briefly introduce our preliminary exploration in the theoretical modeling of Transformer models. We simulate the behavior of Transformers using Hopfield networks, linking them to associative memory, allowing each Transformer block to perform approximate nearest neighbor searches. Based on this, we propose a new energy function that reveals a dependency between model size and datasets under certain conditions. We also discuss our recent work on extending the context window of LLMs through the lens of information theory. 
+
+Bio
+-----
+Xueyan Niu is a Principal Engineer at Theory Lab, 2012 Labs, Huawei Technologies. She received the Ph.D. degree from Purdue University in 2021, and the B.S. degree in Mathematics and Applied Mathematics from Peking University in 2016. She was previously affiliated with the Cognitive Computing Lab at Baidu Research. Her research is centered on information theory and semantic communication, encompassing machine learning domains such as language models, image processing, and video compression. Her work has been published in top information theory journals like IEEE Transactions on Information Theory and at leading artificial intelligence conferences such as IJCAI and ACL. Her research in partial information decomposition has been recognized with an Outstanding Early Career Researcher Paper Award. She serves as a guest editor for the special issue on Goal-Oriented Semantic Communication in IEEE Network and as a reviewer for international conferences such as NeurIPS, ICML, ICLR, ISIT, and GLOBECOM. 
 
 
