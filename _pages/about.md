@@ -13,13 +13,16 @@ This year, our workshop will feature talks by a number of distinguished research
 
 ![HKGZTP](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d215d194-3a83-4045-b44e-2514861bff60)
 
+Call for Student Posters
+=====
+
 
 Important Dates
 =====
 
 Registration Deadline: <strong> June 30 </strong>
 
-Poster Submission Deadline: <strong> July 1 </strong>
+Poster Submission Deadline: <strong> July 5 </strong>
 
 Note: If you have a poster, please print it with the A0 size (841mm (W) x 1189mm (H)). We will prepare suitable display units for you.
 
