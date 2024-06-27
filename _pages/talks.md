@@ -27,7 +27,6 @@ author_profile: false
 ---  
   
 # Brief Introduction  
-<hr style="margin-bottom: 0;">  
 
 Prof. Raymond W. Yeung (Keynote)
 -----
