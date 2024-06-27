@@ -93,3 +93,55 @@ Bio:
 -----
 Qiaosheng (Eric) Zhang is a Researcher at the Shanghai Artificial Intelligence Laboratory. He received his B.Eng. (Hons.) and Ph.D. degrees from the Department of Information Engineering at the Chinese University of Hong Kong (CUHK) in 2015 and 2019, respectively. From 2019 to 2022, he was a Research Fellow at the National University of Singapore (NUS) and subsequently a researcher at Huawei Theory Lab. He is a recipient of Excellent Young Scientists Fund Program (Overseas) of NSFC. His research interests lie broadly in the span of information theory and machine learning. His recent work primarily focuses on exploring the mathematical underpinnings and developing novel algorithms for data science problems such as reinforcement learning and community detection.
 
+
+Prof. Shih-Chun Lin  
+=====
+
+Title
+-----
+Optimal Finite-length Linear Codes for Broadcast Packet Erasure Channels with Feedback
+
+Abstract
+-----
+With the recent emergence of many low-latency applications over wireless networks, the need for accurate finite-length analysis of channel coding over multi-user wireless channels is ever increasing. This talk focuses exclusively on the two-user broadcast packet erasure channel (PEC) with causal feedback, for which existing results show that various linear network coding (LNC) schemes can attain the broadcast capacity region when the block length approaches infinity. Complementing the well known asymptotic capacity based analysis, this work derives the exact value of the optimal second-order achievabilty among all possible LNCs which closes the gap between the state-of-the-art LNC second-order inner and outer bounds. A byproduct of the results is to show that among many existing asymptotically capacity-achieving LNC schemes, one (class) of them is provably finite-length optimal and should be the default design choice for any two-user broadcast PECs. Extensions to vector LNCs as well as their connections to finite-length non-linear codes will also be explored.
+
+Bio
+-----
+Shih-Chun Lin (Senior Member, IEEE) received the B.S. and Ph.D. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 2000 and 2007, respectively. He was a Visiting Student with The Ohio State University, Columbus, OH, USA, in 2007. From 2011 to 2012, he was with the National Taipei University of Technology. From 2012 to 2021, he was with the National Taiwan University of Science and Technology, Taipei, Taiwan. In August 2021, he joined National Taiwan University, where he is currently a Professor. His research interests include information theory, communications, and cyber-physical security. He received the Best Paper Award for Young Authors from the IEEE IT/COM Society Taipei/Tainan Chapter in 2015 and twice the Project for Excellent Junior Research Investigators from the Ministry of Science and Technology, Taiwan, in 2015 and 2018. In 2024, he also received award from MediaTek Inc. due to outstanding research achievements. He served as the TPC Co-Chair for IEEE ICC Workshop on B5G-URLLC 2019 and the Publication Chair for the IEEE ISIT 2023 and IEEE Globecom 2020.
+
+
+Prof. Shenghui Song
+=====
+
+Title
+-----
+Fundamental Limits of Large-Scale MIMO Systems: A Random Matrix Theory Perspective
+
+Abstract
+-----
+Wireless communications have evolved through several generations and the basic trend is to explore more spectrum (from sub-6G to mmWave and THz) and improve the spectral efficiency (denser cells and larger antenna arrays, e.g., massive/extra-large/holographic MIMO). To fully exploit the potential of large-scale MIMO systems, we need to accurately characterize their fundamental limits. However, the high dimensionality makes performance evaluation and system design very challenging. Fortunately, many information-theoretic problems for MIMO systems resort to the spectral analysis of channel matrices, which can be tackled by asymptotic random matrix theory (RMT). Notably, the mutual information (MI) of MIMO fading channels is a special case of linear spectral statistics where the ergodic MI and outage probability can be approximated by the central limit theorem (CLT) for the random channel matrix. In this talk, we will introduce the CLT for random matrices and its applications in large-scale MIMO systems. Specifically, we will share our results regarding the fundamental limits of several large-scale MIMO channels, including the non-Gaussian fading channels, the two-hop channels, and the two-hop wiretap channels. Furthermore, we will show how asymptotic RMT can facilitate the finite block-length (FBL) analysis of large-scale MIMO systems. The RMT framework introduced for the performance analysis and system design of large-scale MIMO systems can be applied to other high-dimensional problems such as chaotic physics, signal processing, and theoretical machine learning.
+
+Bio
+-----
+Dr. S.H. Song is now an Assistant Professor jointly appointed by the Division of Integrative Systems and Design (ISD) and the Department of Electronic and Computer Engineering (ECE) at the Hong Kong University of Science and Technology (HKUST). His research is primarily in the areas of Wireless Communications and Machine Learning with current focus on Distributed Intelligence, Semantic Communications, Machine Learning for Communications, Integrated Sensing and Communication, and Information Theory. He was named the Exemplary Reviewer for IEEE Communications Letter and served as the Tutorial Program Co-Chairs of the 2022 IEEE International Mediterranean Conference on Communications and Networking.
+
+Dr. Song is also interested in the research on Engineering Education and served as an Associate Editor for the IEEE Transactions on Education. He has won several teaching awards at HKUST, including the Michael G. Gale Medal for Distinguished Teaching in 2018, the Best Ten Lecturers in 2013, 2015, and 2017, the School of Engineering Distinguished Teaching Award in 2012, the Teachers I Like Award in 2013, 2015, 2016, and 2017, and the MSc(Telecom) Teaching Excellent Appreciation Award in 2020-21 and 2022-23. Dr. Song was one of the honorees of the Third Faculty Recognition at HKUST in 2021.
+
+
+
+Prof. Chia-Han Lee
+=====
+Title
+-----
+Generative AI for Wireless Communications
+
+Abstract
+-----
+The success of large language models has significantly raised interest in generative models. In this talk, we will present our recent progress in utilizing generative models for the physical layer design of wireless communication systems. We will discuss various generative models including generative adversarial networks (GANs), variational autoencoders (VAEs), and diffusion models, and demonstrate their applications in federated learning, semantic communication, and joint source-channel coding for image data.
+
+Bio:
+Chia-Han Lee received the B.S. degree from National Taiwan University in 1999, the M.S. degree from the University of Michigan, Ann Arbor, in 2003, and the Ph.D. degree from Princeton University in 2008, all in electrical engineering. From 1999 to 2001, he served in the ROC Army as a Missile Operation Officer. From 2008 to 2009, he was a Postdoctoral Research Associate with the University of Notre Dame, USA. From 2010 to 2016, he was with Academia Sinica as an Assistant Research Fellow and then an Associate Research Fellow. In 2016, he joined National Yang Ming Chiao Tung University as an Associate Professor and Hwa Tse Roger Liang Junior Chair Professor (2018-2019), and became a Professor in 2019. Since 2022, he is an Associate Chairman of the Department of Electronics and Electrical Engineering. He received Intel Labs Distinguished Collaborative Research Awards in 2014 and was named Intel Labs Distinguished Collaborator in 2015 (for years 2010-2015). He serves as TPC Co-Chair for IEEE GLOBECOM 2025, Tutorials Co-Chair for IEEE GLOBECOM 2020, Symposium Co-Chair for IEEE GLOBECOM 2019, ICC 2021, ICC 2022, and ICC 2023, and Industry Presentations and Demonstrations Co-Chair for IEEE GLOBECOM 2017. His research focuses deep learning-based wireless communications and networks. He is an Editor of IEEE Communications Letters from 2014 to 2018, an Editor of IEEE Transactions on Wireless Communications from 2014 to 2019, an Editor of IEEE Transactions on Communications from 2019 to 2023, and an Editor of IEEE Transactions on Cognitive Communications and Networking since 2024. He is the Chair of IEEE ComSoc Taipei Chapter from 2021 to 2022.
+
+
+
+
