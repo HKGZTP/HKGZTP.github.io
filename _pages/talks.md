@@ -5,32 +5,31 @@ title: "Talks"
 author_profile: false
 ---
 
-Speakers
-=====
-
-
-
-| Candidate                | Institute                                       |
-|--------------------------|-------------------------------------------------|
-| Raymond W. Yeung         | The Chinese University of Hong Kong             |
-| En-Hui Yang | University of Waterloo |
-| Antoni B. Chan           | City University of Hong Kong                    |
-| Cheuk Ting Li            | The Chinese University of Hong Kong             |
-| Shih-Chun Lin            | National Taiwan University                      |
-| Yao-Win Peter Hong       | National Tsing Hua University                   |
-|Yu-Chih Huang  | National Yang Ming Chiao Tung University |
-|Chia-Han Lee   | National Yang Ming Chiao Tung University |
-| Wenrui Dai | Shanghai Jiao Tong University |
-| Qianqian Yang | Zhejiang University |
-| Qiaosheng Zhang | Shanghai Artificial Intelligence Laboratory|
-|Xueyan Niu | Theory Lab, 2012 Labs, Huawei Technologies |
-
-
-
-Brief Introduction
-=====
-Prof. Raymond W. Yeung (Keynote)
------
+# Speakers  
+=====  
+  
+| Candidate                | Institute                                       |  
+|--------------------------|-------------------------------------------------|  
+| Raymond W. Yeung         | The Chinese University of Hong Kong             |  
+| En-Hui Yang              | University of Waterloo                          |  
+| Antoni B. Chan           | City University of Hong Kong                    |  
+| Cheuk Ting Li            | The Chinese University of Hong Kong             |  
+| Shih-Chun Lin            | National Taiwan University                      |  
+| Yao-Win Peter Hong       | National Tsing Hua University                   |  
+| Yu-Chih Huang            | National Yang Ming Chiao Tung University       |  
+| Chia-Han Lee             | National Yang Ming Chiao Tung University       |  
+| Wenrui Dai               | Shanghai Jiao Tong University                   |  
+| Qianqian Yang            | Zhejiang University                           |  
+| Qiaosheng Zhang          | Shanghai Artificial Intelligence Laboratory   |  
+| Xueyan Niu               | Theory Lab, 2012 Labs, Huawei Technologies     |  
+  
+---  
+  
+# Brief Introduction  
+=====  
+  
+Prof. Raymond W. Yeung (Keynote)  
+---
 
 **Title:** Proving Information Inequalities by Gaussian Elimination
 
