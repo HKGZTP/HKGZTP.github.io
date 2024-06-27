@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /talks/
-title: "Speakers"
+title: "Talks"
 author_profile: false
 ---
 
@@ -22,11 +22,11 @@ author_profile: false
 | Qiaosheng Zhang | Shanghai Artificial Intelligence Laboratory|
 |Xueyan Niu | Theory Lab, 2012 Labs, Huawei Technologies |
 
-Talks
+Brief Introduction
 =====
 
 Prof. Raymond W. Yeung (Keynote)
-=====
+-----
 
 **Title:** Proving Information Inequalities by Gaussian Elimination
 
@@ -37,7 +37,7 @@ Prof. Raymond W. Yeung (Keynote)
 He is a recipient of the 2005 IEEE Information Theory Society Paper Award, the Friedrich Wilhelm Bessel Research Award from the Alexander von Humboldt Foundation in 2007, the 2016 IEEE Eric E. Sumner Award, the 2018 ACM SIGMOBILE Test-of-Time Paper Award, the 2021 IEEE Richard W. Hamming Medal, and the 2022 Claude E. Shannon Award. In 2015, he was named an Outstanding Overseas Chinese Information Theorist by the China Information Theory Society. He is a Fellow of the IEEE, Hong Kong Academy of Engineering Sciences, Hong Kong Institution of Engineers, and the US National Academy of Inventors.
 
 Prof. En-Hui Yang (Online, Keynote)
-=====
+-----
 
 **Title:** Information Theory Inspired Deep Learning
 
@@ -49,7 +49,7 @@ He served, inter alia, as a member of Presidential Nominating Committee of the A
 
 
 Prof. Cheunk Ting Li
-=====
+-----
 
 **Title:** One-shot Coding using Poisson Processes
 
@@ -61,7 +61,7 @@ and 2018, respectively. He was a postdoctoral scholar at the Department of Elect
 
 
 Dr. Qiaosheng Zhang
-=====
+-----
 
 **Title:** Information-Directed Sampling: An Information-Theoretic Method for Reinforcement Learning
 
@@ -72,7 +72,7 @@ Dr. Qiaosheng Zhang
 
 
 Prof. Shih-Chun Lin  
-=====
+-----
 
 **Title:** Optimal Finite-length Linear Codes for Broadcast Packet Erasure Channels with Feedback
 
@@ -82,7 +82,7 @@ Prof. Shih-Chun Lin
 
 
 Prof. Shenghui Song
-=====
+-----
 
 **Title:** Fundamental Limits of Large-Scale MIMO Systems: A Random Matrix Theory Perspective
 
@@ -96,7 +96,7 @@ Dr. Song is also interested in the research on Engineering Education and served 
 
 
 Prof. Chia-Han Lee
-=====
+-----
 
 **Title:** Generative AI for Wireless Communications
 
@@ -106,7 +106,7 @@ Prof. Chia-Han Lee
 
 
 Prof. Antoni B. Chan
-=====
+-----
 
 **Title:** Towards Explainable AI that Promotes AI-human Mutual Understanding
 
@@ -116,7 +116,7 @@ Prof. Antoni B. Chan
 
 
 Prof. Qianqian Yang
-=====
+-----
 
 **Title:** Highly Efficient Semantics-Oriented Communications with Generative Modeling
 
@@ -127,7 +127,7 @@ Prof. Qianqian Yang
 She is currently a Tenure-Tracked Professor with the Department of Information Science and Electronic Engineering, Zhejiang University, China. Her main research interests include information theory, wireless AI, and semantic communication. She has served as a Symposium Chair for IEEE ICCT 2023, a local Co-Chair for IEEE WCSP 2023, and a Finance Chair for IEEE ICCC 2024. She has co-chaired a number of workshops at top conferences, including IEEE ICC 2023, ICCC 2023, VTC 2022, WCNC 2022, and HPCC 2021. She is a founding member of the IEEE SIG on Qualitative and Semantic Communication. She is the recipient of the Science and Technology Innovation First Prize from the China Technology Industrialization Promotion Association, the Outstanding Young Researcher Award from Huawei, and the ICC 2024 Workshop Best Paper Award.
 
 Prof. Yu-Chih Huang
-=====
+-----
 
 **Title:** Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
 
@@ -137,7 +137,7 @@ Prof. Yu-Chih Huang
 
 
 Dr. Xueyan Niu
-=====
+-----
 
 **Title:** Exploring Strengths and Weaknesses of Transformers Through the Lens of Information Theory 
 
