@@ -131,6 +131,7 @@ Dr. Song is also interested in the research on Engineering Education and served 
 
 Prof. Chia-Han Lee
 =====
+
 Title
 -----
 Generative AI for Wireless Communications
@@ -189,6 +190,7 @@ She is currently a Tenure-Tracked Professor with the Department of Information S
 
 Prof. Yu-Chih Huang
 =====
+
 Title
 -----
 Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
