@@ -7,7 +7,9 @@ author_profile: false
 
 Speakers
 =====
-<br />
+
+
+
 | Candidate                | Institute                                       |
 |--------------------------|-------------------------------------------------|
 | Raymond W. Yeung         | The Chinese University of Hong Kong             |
