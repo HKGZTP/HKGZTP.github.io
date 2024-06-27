@@ -25,6 +25,25 @@ Speakers
 |Xueyan Niu | Theory Lab, 2012 Labs, Huawei Technologies |
 
 
+Prof. Raymond W. Yeung (Keynote)
+=====
+
+Title
+-----
+Proving Information Inequalities by Gaussian Elimination
+
+Abstract
+------
+
+Proving information inequalities and identities under linear constraints on the information measures is an important problem in information theory. For this purpose, ITIP and other variant algorithms have been developed and implemented, which are all based on solving a linear program (LP). We have recently developed a symbolic computation approach that can solve such LPs very efficiently. In some cases, only the Gaussian elimination is needed without having to solve an LP. In other cases, the original LP is reduced to a much smaller LP.
+
+Brief Biography
+-----
+Raymond W. Yeung is a Choh-Ming Li Professor of Information Engineering at The Chinese University of Hong Kong (CUHK). He received his B.S., M.Eng., and Ph.D. degrees from Cornell University in Electrical Engineering in 1984, 1985, and 1988, respectively. Before joining CUHK in 1991, he was a Member of Technical Staff at AT&T Bell Laboratories. He has been serving as Co-Director of the Institute of Network Coding at CUHK since 2010. He is the author of the books A First Course in Information Theory (Kluwer Academic/Plenum Publishers, 2002) and Information Theory and Network Coding (Springer 2008), which have been adopted by over 100 institutions around the world. In spring 2014, he gave the first MOOC in the world on information theory that reached over 60,000 students to date.
+
+He is a recipient of the 2005 IEEE Information Theory Society Paper Award, the Friedrich Wilhelm Bessel Research Award from the Alexander von Humboldt Foundation in 2007, the 2016 IEEE Eric E. Sumner Award, the 2018 ACM SIGMOBILE Test-of-Time Paper Award, the 2021 IEEE Richard W. Hamming Medal, and the 2022 Claude E. Shannon Award. In 2015, he was named an Outstanding Overseas Chinese Information Theorist by the China Information Theory Society. He is a Fellow of the IEEE, Hong Kong Academy of Engineering Sciences, Hong Kong Institution of Engineers, and the US National Academy of Inventors.
+
+
 Prof. Cheunk Ting Li
 =====
 
