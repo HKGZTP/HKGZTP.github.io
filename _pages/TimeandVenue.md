@@ -39,7 +39,7 @@ Show the CityUHK taxi card to taxi driver, the card provides the driver with gui
 
 ![taxi-card_2](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1cc89f67-3ee3-4096-8a1b-a108eece4c81)
 
-From Hongkong International Airport to CityUHK
+From Hong Kong International Airport to CityUHK
 
 About 33 kilometers; Estimated travelling time: 30 minutes; Estimated fare 300 HKD.
 
