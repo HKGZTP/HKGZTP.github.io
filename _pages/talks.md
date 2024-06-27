@@ -115,9 +115,6 @@ Prof. Antoni B. Chan
 **Bio:** Prof. Antoni B. Chan received the B.S. and M.Eng. degrees in electrical engineering from Cornell University, Ithaca, NY, USA, in 2000 and 2001, respectively, and the Ph.D. degree in electrical and computer engineering from University of California at San Diego (UCSD), La Jolla, CA, USA, in 2008. He was a Visiting Scientist with the Vision and Image Analysis Laboratory, Cornell University, from 2001 to 2003, and a Post-Doctoral Researcher with the Statistical Visual Computing Laboratory, UCSD, in 2009. In 2009 he joined the Department of Computer Science, City University of Hong Kong, Hong Kong, where he is currently a Professor. His research interests include computer vision, machine learning, explainable AI (XAI), eye-gaze analysis, and music analysis. Prof. Chan received the National Science Foundation Integrative Graduate Education and Research Training Fellowship from 2006 to 2008, and an Early Career Award from the Research Grants Council of the Hong Kong Special Administrative Region, China, in 2012. He is currently an associate editor for IEEE Transactions on Pattern Analysis and Machine Intelligence, and serves as area chair for computer vision and machine learning conferences, including CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR.
 
 
-
-
-
 Prof. Qianqian Yang
 =====
 
@@ -129,42 +126,23 @@ Prof. Qianqian Yang
 
 She is currently a Tenure-Tracked Professor with the Department of Information Science and Electronic Engineering, Zhejiang University, China. Her main research interests include information theory, wireless AI, and semantic communication. She has served as a Symposium Chair for IEEE ICCT 2023, a local Co-Chair for IEEE WCSP 2023, and a Finance Chair for IEEE ICCC 2024. She has co-chaired a number of workshops at top conferences, including IEEE ICC 2023, ICCC 2023, VTC 2022, WCNC 2022, and HPCC 2021. She is a founding member of the IEEE SIG on Qualitative and Semantic Communication. She is the recipient of the Science and Technology Innovation First Prize from the China Technology Industrialization Promotion Association, the Outstanding Young Researcher Award from Huawei, and the ICC 2024 Workshop Best Paper Award.
 
-
-
-
-
-
-
-
 Prof. Yu-Chih Huang
 =====
 
-Title
------
-Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
+**Title:** Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
 
-Abstract
------
-The piecewise-stationary bandit problem is an important variant of the multi-armed bandit problem that further considers abrupt changes in the reward distributions. The main theme of the problem is the trade-off between exploration for detecting environment changes and exploitation of traditional bandit algorithms. While this problem has been extensively investigated, existing works either assume knowledge about the number of change points $M$ or require extremely high computational complexity. In this work, we revisit the piecewise-stationary bandit problem from a minimalist perspective. We propose a novel and generic exploration mechanism, called diminishing exploration, which eliminates the need for knowledge about $M$ and can be used in conjunction with an existing change detection-based algorithm to achieve near-optimal regret scaling. Simulation results show that despite oblivious of $M$, equipping existing algorithms with the proposed diminishing exploration generally achieves better empirical regret than existing approaches.
+**Abstract:** The piecewise-stationary bandit problem is an important variant of the multi-armed bandit problem that further considers abrupt changes in the reward distributions. The main theme of the problem is the trade-off between exploration for detecting environment changes and exploitation of traditional bandit algorithms. While this problem has been extensively investigated, existing works either assume knowledge about the number of change points $M$ or require extremely high computational complexity. In this work, we revisit the piecewise-stationary bandit problem from a minimalist perspective. We propose a novel and generic exploration mechanism, called diminishing exploration, which eliminates the need for knowledge about $M$ and can be used in conjunction with an existing change detection-based algorithm to achieve near-optimal regret scaling. Simulation results show that despite oblivious of $M$, equipping existing algorithms with the proposed diminishing exploration generally achieves better empirical regret than existing approaches.
 
-Bio
------
-Yu-Chih Huang received the Ph.D. degree in electrical and computer engineering from Texas A&M University (TAMU), College Station, TX, USA, in 2013. From 2013 to 2015, he was a Postdoctoral Research Associate with TAMU. In 2015, he joined the Department of Communication Engineering, National Taipei University, Taipei, Taiwan, as an Assistant Professor and was promoted to Associate Professor in 2018. In 2020, he joined the Institute of Communications Engineering, National Yang Ming Chiao Tung University, Taiwan, where he is currently a Professor. His research interests include information theory, coding theory, wireless communications, and machine learning. He was the recipient of the National Science and Technology Council Wu Ta-You Memorial Award in 2023, Ministry of Science and Technology Young Scholar Fellowship in 2020, and the 2018 IEEE Information Theory Society Taipei Chapter and IEEE Communications Society Taipei/Tainan Chapter’s Best Paper Award for Young Scholars. He is currently an Associate Editor for IEEE Transactions on Communications and IEEE Communications Letters.
+**Bio:** Yu-Chih Huang received the Ph.D. degree in electrical and computer engineering from Texas A&M University (TAMU), College Station, TX, USA, in 2013. From 2013 to 2015, he was a Postdoctoral Research Associate with TAMU. In 2015, he joined the Department of Communication Engineering, National Taipei University, Taipei, Taiwan, as an Assistant Professor and was promoted to Associate Professor in 2018. In 2020, he joined the Institute of Communications Engineering, National Yang Ming Chiao Tung University, Taiwan, where he is currently a Professor. His research interests include information theory, coding theory, wireless communications, and machine learning. He was the recipient of the National Science and Technology Council Wu Ta-You Memorial Award in 2023, Ministry of Science and Technology Young Scholar Fellowship in 2020, and the 2018 IEEE Information Theory Society Taipei Chapter and IEEE Communications Society Taipei/Tainan Chapter’s Best Paper Award for Young Scholars. He is currently an Associate Editor for IEEE Transactions on Communications and IEEE Communications Letters.
 
 
 Dr. Xueyan Niu
 =====
 
-Title
------
-Exploring Strengths and Weaknesses of Transformers Through the Lens of Information Theory 
+**Title:** Exploring Strengths and Weaknesses of Transformers Through the Lens of Information Theory 
 
-Abstract
------
-With the advent of ChatGPT, Transformer-based Large Language Models (LLMs) are receiving widespread attention from both academia and industry. OpenAI's scaling law predicts that training larger models with more data can lead to better performance. Based on this, the parameter scale of recent large models can reach the level of hundreds of billions and are trained on text data at the scale of hundreds of billions. However, increasing the size of the Transformer model does not always lead to performance improvement—a phenomenon that cannot be explained by the empirical scaling law. In addition, when the model memorizes training samples, its generalization ability is enhanced. This report will briefly introduce our preliminary exploration in the theoretical modeling of Transformer models. We simulate the behavior of Transformers using Hopfield networks, linking them to associative memory, allowing each Transformer block to perform approximate nearest neighbor searches. Based on this, we propose a new energy function that reveals a dependency between model size and datasets under certain conditions. We also discuss our recent work on extending the context window of LLMs through the lens of information theory. 
+**Abstract:** With the advent of ChatGPT, Transformer-based Large Language Models (LLMs) are receiving widespread attention from both academia and industry. OpenAI's scaling law predicts that training larger models with more data can lead to better performance. Based on this, the parameter scale of recent large models can reach the level of hundreds of billions and are trained on text data at the scale of hundreds of billions. However, increasing the size of the Transformer model does not always lead to performance improvement—a phenomenon that cannot be explained by the empirical scaling law. In addition, when the model memorizes training samples, its generalization ability is enhanced. This report will briefly introduce our preliminary exploration in the theoretical modeling of Transformer models. We simulate the behavior of Transformers using Hopfield networks, linking them to associative memory, allowing each Transformer block to perform approximate nearest neighbor searches. Based on this, we propose a new energy function that reveals a dependency between model size and datasets under certain conditions. We also discuss our recent work on extending the context window of LLMs through the lens of information theory. 
 
-Bio
------
-Xueyan Niu is a Principal Engineer at Theory Lab, 2012 Labs, Huawei Technologies. She received the Ph.D. degree from Purdue University in 2021, and the B.S. degree in Mathematics and Applied Mathematics from Peking University in 2016. She was previously affiliated with the Cognitive Computing Lab at Baidu Research. Her research is centered on information theory and semantic communication, encompassing machine learning domains such as language models, image processing, and video compression. Her work has been published in top information theory journals like IEEE Transactions on Information Theory and at leading artificial intelligence conferences such as IJCAI and ACL. Her research in partial information decomposition has been recognized with an Outstanding Early Career Researcher Paper Award. She serves as a guest editor for the special issue on Goal-Oriented Semantic Communication in IEEE Network and as a reviewer for international conferences such as NeurIPS, ICML, ICLR, ISIT, and GLOBECOM. 
+**Bio:** Xueyan Niu is a Principal Engineer at Theory Lab, 2012 Labs, Huawei Technologies. She received the Ph.D. degree from Purdue University in 2021, and the B.S. degree in Mathematics and Applied Mathematics from Peking University in 2016. She was previously affiliated with the Cognitive Computing Lab at Baidu Research. Her research is centered on information theory and semantic communication, encompassing machine learning domains such as language models, image processing, and video compression. Her work has been published in top information theory journals like IEEE Transactions on Information Theory and at leading artificial intelligence conferences such as IJCAI and ACL. Her research in partial information decomposition has been recognized with an Outstanding Early Career Researcher Paper Award. She serves as a guest editor for the special issue on Goal-Oriented Semantic Communication in IEEE Network and as a reviewer for international conferences such as NeurIPS, ICML, ICLR, ISIT, and GLOBECOM. 
 
 
