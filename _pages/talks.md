@@ -28,7 +28,7 @@ Speakers
 Prof. Raymond W. Yeung (Keynote)
 =====
 
-**Title: ** Proving Information Inequalities by Gaussian Elimination
+**Title:** Proving Information Inequalities by Gaussian Elimination
 
 Abstract
 ------
