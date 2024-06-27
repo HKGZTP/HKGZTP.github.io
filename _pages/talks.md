@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 # Speakers  
-=====  
+---
   
 | Candidate                | Institute                                       |  
 |--------------------------|-------------------------------------------------|  
@@ -26,7 +26,7 @@ author_profile: false
 ---  
   
 # Brief Introduction  
-=====  
+---
   
 Prof. Raymond W. Yeung (Keynote)  
 ---
