@@ -1,12 +1,11 @@
 ---
 layout: archive
 permalink: /talks/
+title: "Speakers"
 author_profile: false
 ---
 
 
-Speakers
-=====
 
 | Candidate                | Institute                                       |
 |--------------------------|-------------------------------------------------|
