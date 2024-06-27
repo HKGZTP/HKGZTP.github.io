@@ -15,7 +15,8 @@ This year, our workshop will feature talks by a number of distinguished research
 
 Call for Student Posters
 =====
-![CallForPosters](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/4e88f1ca-37bd-40fe-bb08-2e7b4e38320f)
+![CallForPosters-WithOutline](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/451db791-cae7-454a-844e-73456f789988)
+
 
 
 Important Dates
