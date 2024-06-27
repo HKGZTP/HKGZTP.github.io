@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-The workshop is hosted by the Department of Computer Science, City University of Hong Kong (CityU) and IEEE Information Theory Society Hong Kong, Guangzhou, and Taipei Chapters. 
+The workshop is hosted by the Department of Computer Science, City University of Hong Kong (CityUHK) and IEEE Information Theory Society Hong Kong, Guangzhou, and Taipei Chapters. 
 
 The goal is to bring together leading researchers in Hong Kong, Guangzhou and Taipei regions to explore deep unsolved theoretical problems in information theory, communication, artificial intelligence and related fields.
 
