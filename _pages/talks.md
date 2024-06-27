@@ -27,8 +27,10 @@ author_profile: false
 ---  
   
 # Brief Introduction  
----
-## Prof. Raymond W. Yeung (Keynote)  
+  
+<hr style="margin-bottom: 0;">  
+<p style="margin-top: 0;">Prof. Raymond W. Yeung (Keynote)</p>  
+<hr style="margin-top: 0;">  
 
 **Title:** Proving Information Inequalities by Gaussian Elimination
 
