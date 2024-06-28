@@ -119,7 +119,7 @@ Prof. Chia-Han Lee
 
 Prof. Antoni B. Chan
 -----
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/864fff55-c6a3-43bf-badd-8ca6de5d2cab)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/c8744ae4-771d-4f2c-ba0b-69708565b4a8)
 
 **Title:** Towards Explainable AI that Promotes AI-human Mutual Understanding
 
@@ -130,7 +130,8 @@ Prof. Antoni B. Chan
 
 Prof. Qianqian Yang
 -----
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5a066044-f487-40cb-b1af-01a2c186cba6)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/835ed564-be34-474d-bb5d-49f86d06e68e)
+
 
 **Title:** Highly Efficient Semantics-Oriented Communications with Generative Modeling
 
@@ -142,7 +143,8 @@ She is currently a Tenure-Tracked Professor with the Department of Information S
 
 Prof. Yu-Chih Huang
 -----
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/acde8705-e188-4a3d-b17d-262402d44463)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5eae5da2-c2ac-42f7-a16c-e073dae3423d)
+
 
 **Title:** Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
 
@@ -153,6 +155,7 @@ Prof. Yu-Chih Huang
 
 Dr. Xueyan Niu
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/605cd80d-2f52-4fc1-9c48-3f6c49179276)
 
 **Title:** Exploring Strengths and Weaknesses of Transformers Through the Lens of Information Theory 
 
