@@ -43,6 +43,8 @@ He is a recipient of the 2005 IEEE Information Theory Society Paper Award, the F
 Prof. En-Hui Yang (Online, Keynote)
 -----
 
+![Enhui_Yang](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/af407cca-d8ea-43d9-802c-4ba2b1faa837)
+
 **Title:** Information Theory Inspired Deep Learning
 
 **Abstract:** As deep learning-based artificial intelligence (AI) pushes our information age to a new high, is it possible for information theory (IT) to jump on the bandwagon? In this talk, we will provide an affirmative answer to this question by introducing IT concepts and optimization techniques into deep learning (DL) and presenting several IT inspired deep learning paradigms. It is shown that (1) conditional mutual information (CMI) can be used to measure the concentration of a classification deep neural network (DNN) in the output probability distribution space of the DNN, and (2) optimization techniques in rate distortion function and channel capacity can be modified to minimize (maximize, resp.) CMI along with minimizing the standard cross entropy function in DL, yielding CMI constrained deep learning (CMIC-DL), knowledge distillation (KD) resistant DL, and KD-amplifying DL. Extensive experiment results show that DNNs trained within these IT inspired DL paradigms outperform the state-of-the-art models trained within the standard DL and other loss functions in the literature.
@@ -55,6 +57,8 @@ He served, inter alia, as a member of Presidential Nominating Committee of the A
 Prof. Cheunk Ting Li
 -----
 
+![CheukTing_Li](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/38438e25-4007-4653-a039-88a247133954)
+
 **Title:** One-shot Coding using Poisson Processes
 
 **Abstract:** Finite blocklength analysis is applicable to practical communication scenarios where the message length does not approach infinity. We present an approach to proving finite blocklength coding theorems via the Poisson functional representation, which can be regarded as a mechanism capable of answering queries. Encoding and decoding operations can be performed using queries, and the error probability can be bounded via the Poisson matching lemma. This approach provides tight one-shot and finite blocklength results in various multiuser communication settings, with proofs even shorter than conventional asymptotic techniques in certain settings. This talk is based on a joint work with Venkat Anantharam (UC Berkeley): C. T. Li and V. Anantharam, "A Unified Framework for One-Shot Achievability via the Poisson Matching Lemma," IEEE Trans. Inf. Theory, vol. 67, no. 5, pp. 2624-2651, 2021.
@@ -66,6 +70,8 @@ and 2018, respectively. He was a postdoctoral scholar at the Department of Elect
 
 Dr. Qiaosheng Zhang
 -----
+
+![Qiaosheng_Zhang](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/297deee6-e240-4262-834b-eca190ea0fbf)
 
 **Title:** Information-Directed Sampling: An Information-Theoretic Method for Reinforcement Learning
 
