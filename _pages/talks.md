@@ -33,9 +33,11 @@ author_profile: false
 <div style="display: flex; align-items: flex-start;">  
   <img src="https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/54b01997-b548-4e6d-a845-7d123dba19f9" alt="Raymond" style="max-width: 50%; margin-right: 20px;">  
   <div style="width: 50%;">  
+    
     **Title**: Proving Information Inequalities by Gaussian Elimination  
   
     **Abstract**: Proving information inequalities and identities under linear constraints on the information measures is an important problem in information theory. For this purpose, ITIP and other variant algorithms have been developed and implemented, which are all based on solving a linear program (LP). We have recently developed a symbolic computation approach that can solve such LPs very efficiently. In some cases, only the Gaussian elimination is needed without having to solve an LP. In other cases, the original LP is reduced to a much smaller LP.  
+    
   </div>  
 </div>
 
