@@ -31,8 +31,10 @@ author_profile: false
 <h2 style="margin-top: 0;">Prof. Raymond W. Yeung (Keynote)</h2>
 
 **Title**: Proving Information Inequalities by Gaussian Elimination  
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/e853f251-d9bd-4ea3-be79-8b700247f870)
 
-| ![Raymond](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/54b01997-b548-4e6d-a845-7d123dba19f9) | **Abstract**: Proving information inequalities and identities under linear constraints on the information measures is an important problem in information theory. For this purpose, ITIP and other variant algorithms have been developed and implemented, which are all based on solving a linear program (LP). We have recently developed a symbolic computation approach that can solve such LPs very efficiently. In some cases, only the Gaussian elimination is needed without having to solve an LP. In other cases, the original LP is reduced to a much smaller LP.  |  
+
+**Abstract**: Proving information inequalities and identities under linear constraints on the information measures is an important problem in information theory. For this purpose, ITIP and other variant algorithms have been developed and implemented, which are all based on solving a linear program (LP). We have recently developed a symbolic computation approach that can solve such LPs very efficiently. In some cases, only the Gaussian elimination is needed without having to solve an LP. In other cases, the original LP is reduced to a much smaller LP.
 
 
 
@@ -42,8 +44,7 @@ He is a recipient of the 2005 IEEE Information Theory Society Paper Award, the F
 
 Prof. En-Hui Yang (Online, Keynote)
 -----
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/24402a94-0775-4833-896e-114941a4c66c)
-
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/26dacf41-89f3-4a74-aa2e-b448eb6f7e40)
 
 **Title:** Information Theory Inspired Deep Learning
 
