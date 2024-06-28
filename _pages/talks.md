@@ -83,7 +83,6 @@ Dr. Qiaosheng Zhang
 
 Prof. Shih-Chun Lin  
 -----
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d111548e-0089-4ad3-a610-4f256e5ced97)
 
 **Title:** Optimal Finite-length Linear Codes for Broadcast Packet Erasure Channels with Feedback
 
@@ -94,7 +93,7 @@ Prof. Shih-Chun Lin
 
 Prof. Shenghui Song
 -----
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/58966055-b33a-4575-aabc-6d5bfe10978c)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/55cb99d3-ad0e-4dd5-9893-6076af4f5aa1)
 
 **Title:** Fundamental Limits of Large-Scale MIMO Systems: A Random Matrix Theory Perspective
 
@@ -109,7 +108,7 @@ Dr. Song is also interested in the research on Engineering Education and served 
 
 Prof. Chia-Han Lee
 -----
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6f55d668-05d6-460c-94de-fe60b95c70ea)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/3f4559ab-20b5-43e4-8a78-7b0263bd41d1)
 
 **Title:** Generative AI for Wireless Communications
 
