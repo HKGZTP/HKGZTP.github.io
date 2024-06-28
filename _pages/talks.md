@@ -56,8 +56,8 @@ He served, inter alia, as a member of Presidential Nominating Committee of the A
 
 Prof. Cheunk Ting Li
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dddf6dcf-97ed-4cea-b79e-e1f6f73b4dca)
 
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/752731a2-6414-4083-b1fd-222cb97c11cc)
 
 **Title:** One-shot Coding using Poisson Processes
 
@@ -70,8 +70,8 @@ and 2018, respectively. He was a postdoctoral scholar at the Department of Elect
 
 Dr. Qiaosheng Zhang
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0e6171ad-f659-4f00-abce-37f4da8a0003)
 
-![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/8717bacf-6712-4434-8d04-91fd4e19b6f6)
 
 **Title:** Information-Directed Sampling: An Information-Theoretic Method for Reinforcement Learning
 
