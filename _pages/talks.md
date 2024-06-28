@@ -30,11 +30,17 @@ author_profile: false
 ---
 <h2 style="margin-top: 0;">Prof. Raymond W. Yeung (Keynote)</h2>
 
-![Raymond](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/54b01997-b548-4e6d-a845-7d123dba19f9)
 
-**Title:** Proving Information Inequalities by Gaussian Elimination
+<div style="display: flex; justify-content: space-between;">  
+    <img src="y![Raymond](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/54b01997-b548-4e6d-a845-7d123dba19f9)" alt="your image" style="max-width: 50%; height: auto;">  
+    <div style="width: 45%; padding-left: 20px;">  
+        **Title:** Proving Information Inequalities by Gaussian Elimination
 
-**Abstract:** Proving information inequalities and identities under linear constraints on the information measures is an important problem in information theory. For this purpose, ITIP and other variant algorithms have been developed and implemented, which are all based on solving a linear program (LP). We have recently developed a symbolic computation approach that can solve such LPs very efficiently. In some cases, only the Gaussian elimination is needed without having to solve an LP. In other cases, the original LP is reduced to a much smaller LP.
+        **Abstract:** Proving information inequalities and identities under linear constraints on the information measures is an important problem in information theory. For this purpose, ITIP and other variant algorithms have been developed and implemented, which are all based on solving a linear program (LP). We have recently developed a symbolic computation approach that can solve such LPs very efficiently. In some cases, only the Gaussian elimination is needed without having to solve an LP. In other cases, the original LP is reduced to a much smaller LP.
+    </div>  
+</div>
+
+
 
 **Bio:** Raymond W. Yeung is a Choh-Ming Li Professor of Information Engineering at The Chinese University of Hong Kong (CUHK). He received his B.S., M.Eng., and Ph.D. degrees from Cornell University in Electrical Engineering in 1984, 1985, and 1988, respectively. Before joining CUHK in 1991, he was a Member of Technical Staff at AT&T Bell Laboratories. He has been serving as Co-Director of the Institute of Network Coding at CUHK since 2010. He is the author of the books A First Course in Information Theory (Kluwer Academic/Plenum Publishers, 2002) and Information Theory and Network Coding (Springer 2008), which have been adopted by over 100 institutions around the world. In spring 2014, he gave the first MOOC in the world on information theory that reached over 60,000 students to date.
 
