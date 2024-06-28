@@ -29,8 +29,8 @@ author_profile: false
 # Brief Introduction  
 ---
 <h2 style="margin-top: 0;">Prof. Raymond W. Yeung (Keynote)</h2>
-![Raymond](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/54b01997-b548-4e6d-a845-7d123dba19f9)
 
+![Raymond](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/54b01997-b548-4e6d-a845-7d123dba19f9)
 
 **Title:** Proving Information Inequalities by Gaussian Elimination
 
