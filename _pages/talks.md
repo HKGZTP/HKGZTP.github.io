@@ -42,8 +42,8 @@ He is a recipient of the 2005 IEEE Information Theory Society Paper Award, the F
 
 Prof. En-Hui Yang (Online, Keynote)
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/24402a94-0775-4833-896e-114941a4c66c)
 
-![Enhui_Yang](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/af407cca-d8ea-43d9-802c-4ba2b1faa837)
 
 **Title:** Information Theory Inspired Deep Learning
 
@@ -57,7 +57,7 @@ He served, inter alia, as a member of Presidential Nominating Committee of the A
 Prof. Cheunk Ting Li
 -----
 
-![CheukTing_Li](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/38438e25-4007-4653-a039-88a247133954)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/752731a2-6414-4083-b1fd-222cb97c11cc)
 
 **Title:** One-shot Coding using Poisson Processes
 
@@ -71,7 +71,7 @@ and 2018, respectively. He was a postdoctoral scholar at the Department of Elect
 Dr. Qiaosheng Zhang
 -----
 
-![Qiaosheng_Zhang](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/297deee6-e240-4262-834b-eca190ea0fbf)
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/8717bacf-6712-4434-8d04-91fd4e19b6f6)
 
 **Title:** Information-Directed Sampling: An Information-Theoretic Method for Reinforcement Learning
 
@@ -83,6 +83,7 @@ Dr. Qiaosheng Zhang
 
 Prof. Shih-Chun Lin  
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/d111548e-0089-4ad3-a610-4f256e5ced97)
 
 **Title:** Optimal Finite-length Linear Codes for Broadcast Packet Erasure Channels with Feedback
 
@@ -93,6 +94,7 @@ Prof. Shih-Chun Lin
 
 Prof. Shenghui Song
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/58966055-b33a-4575-aabc-6d5bfe10978c)
 
 **Title:** Fundamental Limits of Large-Scale MIMO Systems: A Random Matrix Theory Perspective
 
@@ -107,6 +109,7 @@ Dr. Song is also interested in the research on Engineering Education and served 
 
 Prof. Chia-Han Lee
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6f55d668-05d6-460c-94de-fe60b95c70ea)
 
 **Title:** Generative AI for Wireless Communications
 
@@ -117,6 +120,7 @@ Prof. Chia-Han Lee
 
 Prof. Antoni B. Chan
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/864fff55-c6a3-43bf-badd-8ca6de5d2cab)
 
 **Title:** Towards Explainable AI that Promotes AI-human Mutual Understanding
 
@@ -127,6 +131,7 @@ Prof. Antoni B. Chan
 
 Prof. Qianqian Yang
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5a066044-f487-40cb-b1af-01a2c186cba6)
 
 **Title:** Highly Efficient Semantics-Oriented Communications with Generative Modeling
 
@@ -138,6 +143,7 @@ She is currently a Tenure-Tracked Professor with the Department of Information S
 
 Prof. Yu-Chih Huang
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/acde8705-e188-4a3d-b17d-262402d44463)
 
 **Title:** Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits
 
