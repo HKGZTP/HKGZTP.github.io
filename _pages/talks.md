@@ -31,20 +31,8 @@ author_profile: false
 <h2 style="margin-top: 0;">Prof. Raymond W. Yeung (Keynote)</h2>
 
 **Title**: Proving Information Inequalities by Gaussian Elimination  
-  
-<style>  
-.no-border table, .no-border td, .no-border th {  
-    border: none !important;  
-}  
-</style>  
-  
-<div class="no-border">  
-  
-|   |   |  
-|---|---|  
+
 | ![Raymond](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/54b01997-b548-4e6d-a845-7d123dba19f9) | **Abstract**: Proving information inequalities and identities under linear constraints on the information measures is an important problem in information theory. For this purpose, ITIP and other variant algorithms have been developed and implemented, which are all based on solving a linear program (LP). We have recently developed a symbolic computation approach that can solve such LPs very efficiently. In some cases, only the Gaussian elimination is needed without having to solve an LP. In other cases, the original LP is reduced to a much smaller LP.  |  
-  
-</div>
 
 
 
