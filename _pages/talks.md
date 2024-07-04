@@ -16,7 +16,7 @@ author_profile: false
 | Antoni B. Chan           | City University of Hong Kong                    |  
 | Cheuk Ting Li            | The Chinese University of Hong Kong             |  
 | Shih-Chun Lin            | National Taiwan University                      |  
-| Yao-Win Peter Hong       | National Tsing Hua University                   |  
+| Shenghui Song            | The Hong Kong University of Science and Technology       |  
 | Yu-Chih Huang            | National Yang Ming Chiao Tung University       |  
 | Chia-Han Lee             | National Yang Ming Chiao Tung University       |  
 | Wenrui Dai               | Shanghai Jiao Tong University                   |  
