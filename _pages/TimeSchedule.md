@@ -13,15 +13,14 @@ Day 1
 |--------------|-----------------------|
 | 12:00-12:45  | Registration          |
 | 12:45-13:00  | Opening Ceremony      |
-| 13:00-13:40  | Speaker 1             |
-| 13:40-14:20  | Speaker 2             |
-| 14:20-15:00  | Speaker 3             |
-| 15:00-15:40  | Speaker 4             |
-| 15:40-16:20  | Coffee Break          |
-| 16:00-17:00  | Speaker 5             |
-| 17:00-17:40  | Speaker 6             |
-| 17:40-18:20  | Speaker 7             |
-| 18:30-20:30  | Dinner                |
+| 13:00-13:40  | Prof. Cheunk Ting Li: One-shot Coding using PoissonProcesses             |
+| 13:40-14:20  | Dr. Qiaosheng Zhang: Information-Directed SamplingAn Information-Theoretic Method for ReinforcementLearning             |
+| 14:20-15:00  | Coffee Break             |
+| 15:00-16:00  | Prof, Raymond W. Yeung: Proving InformationInequalities by Gaussian Elimination (Keynote)             |
+| 16:40-17:20  | Prof, Shih-Chun Lin: Optimal Finite-length Linear Codesfor Broadcast Packet Erasure Channels with Feedback          |
+| 16:00-17:00  | Prof, Shenghui Song: Fundamental Limits ofLarge-ScaleMlMO Systems: A Random Matrix Theory Perspective             |
+| 17:20-18:00  | Prof. Chia-Han Lee: Generative AI for WirelessCommunications             |
+| 18:20-20:30  | Dinner                |
 
 
 Day 2
