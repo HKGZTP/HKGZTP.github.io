@@ -31,10 +31,10 @@ Day 2
 | 9:00-10:00   | Prof. En-Hui Yang: Information Theory Inspired Deep Learning (Online, Keynote) |
 | 10:00-10:20  | Coffee Break                  |
 | 10:20-11:00  | Prof. Antoni B. Chan: Towards Explainable Al thatPromotes Al-human Mutual Understanding                 |
-| 11:00-11:40  | Prof. Yu-Chih Huang: Diminishing Exploration: AMinimalist Approach to Piecewise Stationary Multi.Armed Bandits                 |
+| 11:00-11:40  | Prof. Yu-Chih Huang: Diminishing Exploration: A Minimalist Approach to Piecewise Stationary Multi-Armed Bandits                 |
 | 12:00-14:00  | Lunch Break                |
 | 14:00-14:40  | Prof. Wenrui Dai                 |
 | 14:40-15:20  | Dr. Xueyan Niu: Exploring Strengths and Weaknesses of Transformers Through the Lens of Information Theory                 |
-| 15:20-16:00  | Prof. Qiangian Yang: Highly Efficient Semantics Oriented Communications with Generative Modeling                 |
+| 15:20-16:00  | Prof. Qianqian Yang: Highly Efficient Semantics-Oriented Communications with Generative Modeling                 |
 | 16:00-16:20  | Coffee Break               |
-| 16:20-17:30  | Student Poster Presentation                 |
+| 16:20-17:30  | Student Poster Presentation |
