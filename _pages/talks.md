@@ -81,7 +81,7 @@ Dr. Qiaosheng Zhang (invited by GZ chapter)
 
 
 
-Prof. Shih-Chun Lin  
+Prof. Shih-Chun Lin (invited by TP chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0464ee16-4a76-4356-a60e-22dccb76aced)
 
@@ -106,7 +106,7 @@ Prof. Shenghui Song (invited by HK chapter)
 Dr. Song is also interested in the research on Engineering Education and served as an Associate Editor for the IEEE Transactions on Education. He has won several teaching awards at HKUST, including the Michael G. Gale Medal for Distinguished Teaching in 2018, the Best Ten Lecturers in 2013, 2015, and 2017, the School of Engineering Distinguished Teaching Award in 2012, the Teachers I Like Award in 2013, 2015, 2016, and 2017, and the MSc(Telecom) Teaching Excellent Appreciation Award in 2020-21 and 2022-23. Dr. Song was one of the honorees of the Third Faculty Recognition at HKUST in 2021.
 
 
-Prof. Chia-Han Lee
+Prof. Chia-Han Lee (invited by TP chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/3f4559ab-20b5-43e4-8a78-7b0263bd41d1)
 
@@ -127,7 +127,7 @@ Prof. Antoni B. Chan (invited by HK chapter)
 **Bio:** Prof. Antoni B. Chan received the B.S. and M.Eng. degrees in electrical engineering from Cornell University, Ithaca, NY, USA, in 2000 and 2001, respectively, and the Ph.D. degree in electrical and computer engineering from University of California at San Diego (UCSD), La Jolla, CA, USA, in 2008. He was a Visiting Scientist with the Vision and Image Analysis Laboratory, Cornell University, from 2001 to 2003, and a Post-Doctoral Researcher with the Statistical Visual Computing Laboratory, UCSD, in 2009. In 2009 he joined the Department of Computer Science, City University of Hong Kong, Hong Kong, where he is currently a Professor. His research interests include computer vision, machine learning, explainable AI (XAI), eye-gaze analysis, and music analysis. Prof. Chan received the National Science Foundation Integrative Graduate Education and Research Training Fellowship from 2006 to 2008, and an Early Career Award from the Research Grants Council of the Hong Kong Special Administrative Region, China, in 2012. He is currently an associate editor for IEEE Transactions on Pattern Analysis and Machine Intelligence, and serves as area chair for computer vision and machine learning conferences, including CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR.
 
 
-Prof. Yu-Chih Huang
+Prof. Yu-Chih Huang (invited by TP chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/5eae5da2-c2ac-42f7-a16c-e073dae3423d)
 
