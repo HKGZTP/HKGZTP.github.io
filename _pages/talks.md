@@ -28,7 +28,7 @@ author_profile: false
   
 # Brief Introduction  
 ---
-<h2 style="margin-top: 0;">Prof. Raymond W. Yeung (Keynote)</h2>
+<h2 style="margin-top: 0;">Prof. Raymond W. Yeung (Keynote, invited by HK chapter)</h2>
 
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/13d74a57-b2b8-4fa8-8557-3b8b761f9eb0)
 
@@ -53,7 +53,7 @@ Prof. En-Hui Yang (Online, Keynote)
 
 He served, inter alia, as a member of Presidential Nominating Committee of the Academy of Science of Royal Society of Canada; a Board Governor of the University of Waterloo; a member of IEEE Founders Medal Committee; a review panel member for the International Council for Science; an Evaluator for the 2017 Japan Prize; an Associate Editor for IEEE Transactions on Information Theory; a general co-chair of the 2008 IEEE International Symposium on Information Theory; a technical program vice-chair of the 2006 IEEE International Conference on Multimedia & Expo (ICME); the chair of the award committee for the 2004 Canadian Award in Telecommunications; a co-editor of the 2004 Special Issue of the IEEE Transactions on Information Theory; a co-chair of the 2003 US National Science Foundation (NSF) workshop on the interface of Information Theory and Computer Science; and a co-chair of the 2003 Canadian Workshop on Information Theory.
 
-Prof. Cheunk Ting Li
+Prof. Cheunk Ting Li (invited by HK chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dddf6dcf-97ed-4cea-b79e-e1f6f73b4dca)
 
@@ -92,7 +92,7 @@ Prof. Shih-Chun Lin
 **Bio:** Shih-Chun Lin (Senior Member, IEEE) received the B.S. and Ph.D. degrees in electrical engineering from National Taiwan University, Taipei, Taiwan, in 2000 and 2007, respectively. He was a Visiting Student with The Ohio State University, Columbus, OH, USA, in 2007. From 2011 to 2012, he was with the National Taipei University of Technology. From 2012 to 2021, he was with the National Taiwan University of Science and Technology, Taipei, Taiwan. In August 2021, he joined National Taiwan University, where he is currently a Professor. His research interests include information theory, communications, and cyber-physical security. He received the Best Paper Award for Young Authors from the IEEE IT/COM Society Taipei/Tainan Chapter in 2015 and twice the Project for Excellent Junior Research Investigators from the Ministry of Science and Technology, Taiwan, in 2015 and 2018. In 2024, he also received award from MediaTek Inc. due to outstanding research achievements. He served as the TPC Co-Chair for IEEE ICC Workshop on B5G-URLLC 2019 and the Publication Chair for the IEEE ISIT 2023 and IEEE Globecom 2020.
 
 
-Prof. Shenghui Song
+Prof. Shenghui Song (invited by HK chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/55cb99d3-ad0e-4dd5-9893-6076af4f5aa1)
 
@@ -116,7 +116,7 @@ Prof. Chia-Han Lee
 
 **Bio:** Chia-Han Lee received the B.S. degree from National Taiwan University in 1999, the M.S. degree from the University of Michigan, Ann Arbor, in 2003, and the Ph.D. degree from Princeton University in 2008, all in electrical engineering. From 1999 to 2001, he served in the ROC Army as a Missile Operation Officer. From 2008 to 2009, he was a Postdoctoral Research Associate with the University of Notre Dame, USA. From 2010 to 2016, he was with Academia Sinica as an Assistant Research Fellow and then an Associate Research Fellow. In 2016, he joined National Yang Ming Chiao Tung University as an Associate Professor and Hwa Tse Roger Liang Junior Chair Professor (2018-2019), and became a Professor in 2019. Since 2022, he is an Associate Chairman of the Department of Electronics and Electrical Engineering. He received Intel Labs Distinguished Collaborative Research Awards in 2014 and was named Intel Labs Distinguished Collaborator in 2015 (for years 2010-2015). He serves as TPC Co-Chair for IEEE GLOBECOM 2025, Tutorials Co-Chair for IEEE GLOBECOM 2020, Symposium Co-Chair for IEEE GLOBECOM 2019, ICC 2021, ICC 2022, and ICC 2023, and Industry Presentations and Demonstrations Co-Chair for IEEE GLOBECOM 2017. His research focuses deep learning-based wireless communications and networks. He is an Editor of IEEE Communications Letters from 2014 to 2018, an Editor of IEEE Transactions on Wireless Communications from 2014 to 2019, an Editor of IEEE Transactions on Communications from 2019 to 2023, and an Editor of IEEE Transactions on Cognitive Communications and Networking since 2024. He is the Chair of IEEE ComSoc Taipei Chapter from 2021 to 2022.
 
-Prof. Antoni B. Chan
+Prof. Antoni B. Chan (invited by HK chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/c8744ae4-771d-4f2c-ba0b-69708565b4a8)
 
@@ -152,7 +152,7 @@ Prof. Wenrui Dai
 
 
 
-Dr. Xueyan Niu
+Dr. Xueyan Niu (invited by HK chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/605cd80d-2f52-4fc1-9c48-3f6c49179276)
 
