@@ -40,7 +40,7 @@ author_profile: false
 
 He is a recipient of the 2005 IEEE Information Theory Society Paper Award, the Friedrich Wilhelm Bessel Research Award from the Alexander von Humboldt Foundation in 2007, the 2016 IEEE Eric E. Sumner Award, the 2018 ACM SIGMOBILE Test-of-Time Paper Award, the 2021 IEEE Richard W. Hamming Medal, and the 2022 Claude E. Shannon Award. In 2015, he was named an Outstanding Overseas Chinese Information Theorist by the China Information Theory Society. He is a Fellow of the IEEE, Hong Kong Academy of Engineering Sciences, Hong Kong Institution of Engineers, and the US National Academy of Inventors.
 
-Prof. En-Hui Yang (Online, Keynote)
+Prof. En-Hui Yang (Online, Keynote, invited by GZ chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6681af38-5ca2-41c9-b1cf-0b6ceab6a51f)
 
@@ -67,7 +67,7 @@ Prof. Cheunk Ting Li (invited by HK chapter)
 and 2018, respectively. He was a postdoctoral scholar at the Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, USA. He joined the Department of Information Engineering, The Chinese University of Hong Kong, in January 2020. His research interests include simulation of random sources and channels, one-shot and finite-blocklength schemes in information theory, network information theory, and automated theorem proving. He was awarded the 2016 IEEE Jack Keil Wolf ISIT Student Paper Award, and the 2023 Information Theory Society Paper Award.
 
 
-Dr. Qiaosheng Zhang
+Dr. Qiaosheng Zhang (invited by GZ chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/0e6171ad-f659-4f00-abce-37f4da8a0003)
 
@@ -140,7 +140,7 @@ Prof. Yu-Chih Huang
 
 
 
-Prof. Wenrui Dai
+Prof. Wenrui Dai (invited by GZ chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/aaee14d9-d9ef-41a7-8460-c5923d055a9e)
 
@@ -163,7 +163,7 @@ Dr. Xueyan Niu (invited by HK chapter)
 **Bio:** Xueyan Niu is a Principal Engineer at Theory Lab, 2012 Labs, Huawei Technologies. She received the Ph.D. degree from Purdue University in 2021, and the B.S. degree in Mathematics and Applied Mathematics from Peking University in 2016. She was previously affiliated with the Cognitive Computing Lab at Baidu Research. Her research is centered on information theory and semantic communication, encompassing machine learning domains such as language models, image processing, and video compression. Her work has been published in top information theory journals like IEEE Transactions on Information Theory and at leading artificial intelligence conferences such as IJCAI and ACL. Her research in partial information decomposition has been recognized with an Outstanding Early Career Researcher Paper Award. She serves as a guest editor for the special issue on Goal-Oriented Semantic Communication in IEEE Network and as a reviewer for international conferences such as NeurIPS, ICML, ICLR, ISIT, and GLOBECOM. 
 
 
-Prof. Qianqian Yang
+Prof. Qianqian Yang (invited by GZ chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/835ed564-be34-474d-bb5d-49f86d06e68e)
 
