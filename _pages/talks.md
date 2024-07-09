@@ -142,6 +142,7 @@ Prof. Yu-Chih Huang
 
 Prof. Wenrui Dai
 -----
+![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/aaee14d9-d9ef-41a7-8460-c5923d055a9e)
 
 **Title:** Rate-distortion Optimization for Learned Image Compression
 
