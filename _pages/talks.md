@@ -53,7 +53,7 @@ Prof. En-Hui Yang (Online, Keynote, invited by GZ chapter)
 
 He served, inter alia, as a member of Presidential Nominating Committee of the Academy of Science of Royal Society of Canada; a Board Governor of the University of Waterloo; a member of IEEE Founders Medal Committee; a review panel member for the International Council for Science; an Evaluator for the 2017 Japan Prize; an Associate Editor for IEEE Transactions on Information Theory; a general co-chair of the 2008 IEEE International Symposium on Information Theory; a technical program vice-chair of the 2006 IEEE International Conference on Multimedia & Expo (ICME); the chair of the award committee for the 2004 Canadian Award in Telecommunications; a co-editor of the 2004 Special Issue of the IEEE Transactions on Information Theory; a co-chair of the 2003 US National Science Foundation (NSF) workshop on the interface of Information Theory and Computer Science; and a co-chair of the 2003 Canadian Workshop on Information Theory.
 
-Prof. Cheunk Ting Li (invited by HK chapter)
+Prof. Cheuk Ting Li (invited by HK chapter)
 -----
 ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/dddf6dcf-97ed-4cea-b79e-e1f6f73b4dca)
 
