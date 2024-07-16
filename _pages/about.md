@@ -17,8 +17,7 @@ Download the [Conference Handbook](https://qr61.cn/on1kVO/qCNxbxF) for more deta
 
 Call for Student Posters
 =====
-![CallForPosters-WithOutline](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/451db791-cae7-454a-844e-73456f789988)
-
+![CallForPosters-WithBoard](https://github.com/user-attachments/assets/93ff4602-1215-459a-923f-35aaadb250af)
 
 
 Important Dates
