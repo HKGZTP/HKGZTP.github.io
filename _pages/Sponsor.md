@@ -109,7 +109,7 @@ Diamond Sponsor
 <tr>  
   <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
     <div style="display: inline-block; text-align: center;">  
-      <p style="margin: 0;">Huawei</p>  
+      <p style="margin: 0;">Institute of Network Coding, The Chinese University of Hong Kong</p>  
     </div>  
   </td>  
 </tr>  
