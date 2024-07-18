@@ -100,10 +100,13 @@ Diamond Sponsor
 </tr>  
 </table>
 
+![image](https://github.com/user-attachments/assets/4a12ee9b-5f42-4227-af28-e7d3ee6a3884)
+
+
 <table style="width: 100%; border-collapse: collapse;">  
 <tr>  
   <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
-    <img src="https://github.com/user-attachments/assets/bec41673-e5e5-42b7-bb17-c4ab0ef77a13" style="max-width: 100%; height: auto;">  
+    <img src="https://github.com/user-attachments/assets/4a12ee9b-5f42-4227-af28-e7d3ee6a3884" style="max-width: 100%; height: auto;">  
   </td>  
 </tr>  
 <tr>  
