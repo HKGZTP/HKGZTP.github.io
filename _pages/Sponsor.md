@@ -99,7 +99,19 @@ Diamond Sponsor
   </td>  
 </tr>  
 </table>
- 
 
-
+<table style="width: 100%; border-collapse: collapse;">  
+<tr>  
+  <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
+    <img src="https://github.com/user-attachments/assets/bec41673-e5e5-42b7-bb17-c4ab0ef77a13" style="max-width: 100%; height: auto;">  
+  </td>  
+</tr>  
+<tr>  
+  <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
+    <div style="display: inline-block; text-align: center;">  
+      <p style="margin: 0;">Huawei</p>  
+    </div>  
+  </td>  
+</tr>  
+</table>
 
