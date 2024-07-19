@@ -11,10 +11,10 @@ The goal is to bring together leading researchers in Hong Kong, Guangzhou and Ta
 
 This year, our workshop will feature talks by a number of distinguished researchers.
 
-Time: July 20 and 21, 2024
+<strong> Time </strong>: July 20 and 21, 2024
 
 
-Venue: Mr and Mrs Lau Tat Chuen Lecture Theatre (LT-5), 4/F University Concourse, Yeung Kin Man Academic Building, City University of Hong Kong (CityUHK), Hong Kong.
+<strong> Venue </strong>: Mr and Mrs Lau Tat Chuen Lecture Theatre (LT-5), 4/F University Concourse, Yeung Kin Man Academic Building, City University of Hong Kong (CityUHK), Hong Kong.
 
 
 Download the [Conference Handbook](https://qr61.cn/on1kVO/qEEeE5A) for more details.
