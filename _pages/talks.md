@@ -18,6 +18,7 @@ author_profile: false
 | Shih-Chun Lin            | National Taiwan University                      |  
 | Shenghui Song            | The Hong Kong University of Science and Technology       |  
 | Yu-Chih Huang            | National Yang Ming Chiao Tung University       |  
+| Ting-Yi Wu | Senior Principal Engineer of Theory Lab, Huawei |
 | Chia-Han Lee             | National Yang Ming Chiao Tung University       |  
 | Wenrui Dai               | Shanghai Jiao Tong University                   |  
 | Qianqian Yang            | Zhejiang University                           |  
@@ -138,7 +139,10 @@ Prof. Yu-Chih Huang (invited by TP chapter)
 
 **Bio:** Yu-Chih Huang received the Ph.D. degree in electrical and computer engineering from Texas A&M University (TAMU), College Station, TX, USA, in 2013. From 2013 to 2015, he was a Postdoctoral Research Associate with TAMU. In 2015, he joined the Department of Communication Engineering, National Taipei University, Taipei, Taiwan, as an Assistant Professor and was promoted to Associate Professor in 2018. In 2020, he joined the Institute of Communications Engineering, National Yang Ming Chiao Tung University, Taiwan, where he is currently a Professor. His research interests include information theory, coding theory, wireless communications, and machine learning. He was the recipient of the National Science and Technology Council Wu Ta-You Memorial Award in 2023, Ministry of Science and Technology Young Scholar Fellowship in 2020, and the 2018 IEEE Information Theory Society Taipei Chapter and IEEE Communications Society Taipei/Tainan Chapter’s Best Paper Award for Young Scholars. He is currently an Associate Editor for IEEE Transactions on Communications and IEEE Communications Letters.
 
+Ting-Yi Wu (Senior Principal Engineer of Theory Lab, Huawei): Industrial Session
+-----
 
+**Bio:** Dr. Ting-Yi Wu received a Ph.D. degree in communication engineering from National Chiao Tung University, Hsinchu, Taiwan, in 2013, where he worked with the Network Technology Lab. as a Postdoctoral Fellow until 2015. He then joined the Signal-Processing and Communication Lab., HKUST, Coordinated Science Lab., UIUC, Illinois, and the School of Electronics and Communication Engineering, SYSU, Guangzhou. Now Ting-Yi Wu is a senior principal engineer at Theory Lab, Central Research Institute, 2012 Labs, Huawei, who mainly focuses on error/erasure correction/recovery coding for storage, cloud, computing and other applications.
 
 Prof. Wenrui Dai (invited by GZ chapter)
 -----
