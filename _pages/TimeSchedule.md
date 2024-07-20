@@ -13,7 +13,7 @@ Day 1
 |--------------|-----------------------|
 | 12:00-12:45  | Registration          |
 | 12:45-13:00  | Opening Ceremony      |
-| 13:00-13:40  | Prof. Cheunk Ting Li: One-shot Coding using Poisson Processes             |
+| 13:00-13:40  | Prof. Cheuk Ting Li: One-shot Coding using Poisson Processes             |
 | 13:40-14:20  | Dr. Qiaosheng Zhang: Information-Directed Sampling: An Information-Theoretic Method for Reinforcement Learning             |
 | 14:20-15:00  | Coffee Break             |
 | 15:00-16:00  | Prof. Raymond W. Yeung: Proving Information Inequalities by Gaussian Elimination (Keynote)             |
