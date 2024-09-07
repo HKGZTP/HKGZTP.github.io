@@ -19,7 +19,7 @@ This year, our workshop will feature talks by a number of distinguished research
 
 Download the [Conference Handbook](https://qr61.cn/on1kVO/qEEeE5A) for more details.
 
-The meeting videos are now available on YouTube ([Day 1](https://www.youtube.com/watch?v=QBACz2S6lM0&t=14868s) and [Day 2](https://www.youtube.com/watch?v=s8y2dVvL_L0)) and Bilibili ([Day 1](https://www.bilibili.com/video/BV1TTsue4EYu/?spm_id_from=333.337.search-card.all.click&vd_source=0417b512f69fc8e7a2d83907fd0ed1ec) and [Day 2](https://www.bilibili.com/video/BV1TTsuetEdE/?spm_id_from=333.337.search-card.all.click&vd_source=0417b512f69fc8e7a2d83907fd0ed1ec)) and Huang Danian Chaspark ([Prof. Raymond W. Yeung](https://www.chaspark.com/#/coffeeHours/media/1046481421635383296), [Prof. En-Hui Yang](https://www.chaspark.com/#/coffeeHours/media/1045074458573762560), [Prof. Cheuk Ting Li](https://www.chaspark.com/#/coffeeHours/media/1046482785583362048) and [Dr. Qiaosheng Zhang](https://www.chaspark.com/#/coffeeHours/media/1046481914296397824)). Please feel free to watch them.
+The meeting videos are now available on YouTube ([link](https://www.bilibili.com/video/BV169HDesEFf/?spm_id_from=333.788&vd_source=1160e0877225e5cf55e7146859606b74)) and Bilibili ([link](https://www.youtube.com/watch?v=ffh9HXbQ8W8&list=PLYr2FSLtxgLdnKu-f5AZCgFcWJyh1UCu6)) and Huang Danian Chaspark ([Prof. Raymond W. Yeung](https://www.chaspark.com/#/coffeeHours/media/1046481421635383296), [Prof. En-Hui Yang](https://www.chaspark.com/#/coffeeHours/media/1045074458573762560), [Prof. Cheuk Ting Li](https://www.chaspark.com/#/coffeeHours/media/1046482785583362048) and [Dr. Qiaosheng Zhang](https://www.chaspark.com/#/coffeeHours/media/1046481914296397824)). Please feel free to watch them.
 
 
 
